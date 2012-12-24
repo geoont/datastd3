@@ -1,4 +1,4 @@
 datastd3
 ========
 
-Data files for three topographic standards
+Ontologies for three topographic standards.

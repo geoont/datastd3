@@ -1,0 +1,13 @@
+#
+# style for Katalog entries
+#
+
+\style cat:@RFK.csv extends cat:
+    ~shape=plaintext
+        ~label=\
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0"> \
+  <TR><TD>@P:code@</TD><TD>@P:loc_en@</TD></TR> \
+  <TR><TD COLSPAN="2">@P:name_en@</TD></TR> \
+  <TR><TD COLSPAN="2"><FONT POINT-SIZE="8"><I>@P:name_ru@ </I></FONT></TD></TR> \
+</TABLE>
+\style
