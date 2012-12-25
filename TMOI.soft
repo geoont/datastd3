@@ -1,0 +1,73 @@
+cat:s95100 -subcat-> cat:s95000
+cat:s95110 -subcat-> cat:s95100
+cat:s95111 -subcat-> cat:s95110
+cat:s95112 -subcat-> cat:s95110
+cat:s95113 -subcat-> cat:s95110
+cat:s95114 -subcat-> cat:s95110
+cat:s95115 -subcat-> cat:s95110
+cat:s95116 -subcat-> cat:s95110
+cat:s95117 -subcat-> cat:s95110
+
+cat:s95120 -subcat-> cat:s95100
+cat:s95130 -subcat-> cat:s95100
+cat:s95140 -subcat-> cat:s95100
+
+cat:s95150 -subcat-> cat:s95100
+cat:s95151 -subcat-> cat:s95150
+cat:s95152 -subcat-> cat:s95150
+cat:s95153 -subcat-> cat:s95150
+
+cat:s95200 -subcat-> cat:s95000
+cat:s95210 -subcat-> cat:s95200
+cat:s95211 -subcat-> cat:s95210
+cat:s95212 -subcat-> cat:s95210
+cat:s95213 -subcat-> cat:s95210
+cat:s95214 -subcat-> cat:s95210
+cat:s95215 -subcat-> cat:s95210
+cat:s95216 -subcat-> cat:s95210
+cat:s95217 -subcat-> cat:s95210
+cat:s95220 -subcat-> cat:s95200
+
+cat:s95300 -subcat-> cat:s95000
+cat:s95310 -subcat-> cat:s95300
+cat:s95311 -subcat-> cat:s95310
+cat:s95312 -subcat-> cat:s95310
+cat:s95320 -subcat-> cat:s95300
+
+cat:s95400 -subcat-> cat:s95000
+cat:s95410 -subcat-> cat:s95400
+cat:s95411 -subcat-> cat:s95410
+cat:s95412 -subcat-> cat:s95410
+cat:s95411a -subcat-> cat:s95411
+cat:s95411b -subcat-> cat:s95411
+cat:s95411c -subcat-> cat:s95411
+cat:s95411d -subcat-> cat:s95411
+cat:s95420 -subcat-> cat:s95400
+cat:s95424 -subcat-> cat:s95420
+
+cat:s95900 -subcat-> cat:s95000
+cat:s95901 -subcat-> cat:s95900
+cat:s95902 -subcat-> cat:s95900
+cat:s95905 -subcat-> cat:s95900
+cat:s95906 -subcat-> cat:s95900
+
+cat:s98100 -subcat-> cat:s98000
+cat:s98200 -subcat-> cat:s98000
+cat:s98210 -subcat-> cat:s98200
+cat:s98211 -subcat-> cat:s98210
+cat:s98212 -subcat-> cat:s98210
+cat:s98213 -subcat-> cat:s98210
+cat:s98220 -subcat-> cat:s98200
+cat:s98221 -subcat-> cat:s98220
+cat:s98222 -subcat-> cat:s98220
+cat:s98223 -subcat-> cat:s98220
+cat:s98224 -subcat-> cat:s98220
+cat:s98230 -subcat-> cat:s98200
+cat:s98231 -subcat-> cat:s98230
+cat:s98232 -subcat-> cat:s98230
+cat:s98233 -subcat-> cat:s98230
+cat:s98240 -subcat-> cat:s98200
+cat:s98250 -subcat-> cat:s98200
+cat:s98260 -subcat-> cat:s98200
+cat:s98900 -subcat-> cat:s98000
+cat:s98910 -subcat-> cat:s98900

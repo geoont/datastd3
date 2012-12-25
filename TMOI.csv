@@ -1,0 +1,69 @@
+id,code,loc_en,name_en,name_ch
+s95000,95000,,water system,水系
+s95100,95100,,river,河川
+s95110,95110,,type,種類
+s95111,95111,,river/brook/stream,江,河,溪
+s95112,95112,,intermitten stream,時令河
+s95113,95113,,wadi river,乾河
+s95114,95114,,stream,小河
+s95115,95115,,canal,運河
+s95116,95116,line,double line ditch,溝,渠
+s95117,95117,line,single line ditch,小水溝
+s95120,95117,,facility,附屬設施
+s95130,95117,,shore construction,岸邊工程
+s95140,95117,,terrain in river or along shore,河岸,河中地形
+s95150,95150,,flow property,水流性質
+s95151,95151,,rapid,湍流
+s95152,95152,,fall,瀑布
+s95153,95153,,flow direction,河川流向
+s95200,95200,,areal waterbody,面狀水域
+s95210,95210,,type,種類
+s95211,95211,,lake,湖泊
+s95212,95212,,pond,池塘
+s95213,95213,,dry pool,乾池
+s95214,95214,,bog,沼澤
+s95215,95215,,wetland,濕地
+s95216,95216,,reservoir,水庫
+s95217,95217,,cistern,蓄水池
+s95220,95220,,facility,附屬設施
+s95300,95300,,coast,海岸
+s95310,95310,,coast,海岸
+s95311,95311,,cliffy coast,崖岸
+s95312,95312,,coastline,海岸線
+s95320,95320,,facility,附屬設施
+s95400,95400,,shore and water bottom geology,岸濱與水底地質
+s95410,95410,,shore geology,岸濱地質
+s95411,95411,,shore,濱
+s95412,95412,,coral reef,珊瑚礁
+s95411a,95411a,,mud shore,泥濱
+s95411b,95411b,,sand shore,沙濱
+s95411c,95411c,,gravel shore,礫濱
+s95411d,95411d,,rock shore,岩濱
+s95420,95420,,water bottom geology,水底地質
+s95424,95424,,rock,岩床
+s95900,95900,,other,其它
+s95901,95901,,bare rock,顯礁
+s95902,95902,,reef,暗礁
+s95905,95905,,island,島嶼
+s95906,95906,,offshore bar,濱外沙洲
+s98000,98000,},relief, landform,地貌
+s98100,98100,,elevation,高程
+s98200,98200,,various landform*,諸地貌
+s98210,98210,,relief land,起伏地
+s98211,98211,,depression,凹地
+s98212,98212,,"mound, terrace, hillock","土墩, 台地, 小丘"
+s98213,98213,,cliff,斷崖
+s98220,98220,,"collapse,erosion,weathering*","崩,蝕,風化"
+s98221,98221,,ravine,雨裂
+s98222,98222,,gully,流土
+s98223,98223,,colluvial,崩土
+s98224,98224,,badland,惡地
+s98230,98230,,rock,岩床
+s98231,98231,,individual rock,獨立岩
+s98232,98232,,scattered rock,散岩
+s98233,98233,,rocky outcropping,露岩
+s98240,98240,,sand dune,沙丘
+s98250,98250,,cave,洞穴
+s98260,98260,,volcano,火山
+s98900,98900,,other,其他
+s98910,98910,,mud volcano,泥火山
