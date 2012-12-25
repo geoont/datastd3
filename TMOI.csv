@@ -2,16 +2,16 @@ id,code,loc_en,name_en,name_ch
 s95000,95000,,water system,水系
 s95100,95100,,river,河川
 s95110,95110,,type,種類
-s95111,95111,,river/brook/stream,江,河,溪
+s95111,95111,,river/brook/stream,"江,河,溪"
 s95112,95112,,intermitten stream,時令河
 s95113,95113,,wadi river,乾河
 s95114,95114,,stream,小河
 s95115,95115,,canal,運河
-s95116,95116,line,double line ditch,溝,渠
+s95116,95116,line,double line ditch,"溝,渠"
 s95117,95117,line,single line ditch,小水溝
 s95120,95117,,facility,附屬設施
 s95130,95117,,shore construction,岸邊工程
-s95140,95117,,terrain in river or along shore,河岸,河中地形
+s95140,95117,,terrain in river or along shore,"河岸,河中地形"
 s95150,95150,,flow property,水流性質
 s95151,95151,,rapid,湍流
 s95152,95152,,fall,瀑布
@@ -46,7 +46,7 @@ s95901,95901,,bare rock,顯礁
 s95902,95902,,reef,暗礁
 s95905,95905,,island,島嶼
 s95906,95906,,offshore bar,濱外沙洲
-s98000,98000,},relief, landform,地貌
+s98000,98000,,"relief, landform",地貌
 s98100,98100,,elevation,高程
 s98200,98200,,various landform*,諸地貌
 s98210,98210,,relief land,起伏地

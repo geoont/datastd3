@@ -1,0 +1,52 @@
+/* This file was auto-generated on Mon Dec 24 21:20:55 2012
+   using SOFT.pm library version 0.5.  Command line:
+/usr/local/bin/soft2gv.pl --noorphans --tuples=TMOI.csv --styles=TMOI.gvsty TMOI-elevation.soft
+*/
+digraph G {
+	rankdir=BT
+	/* subgraphs */
+	/* node attributes */
+	"cat:s98000" [weight="5",label=< <TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0">  <TR><TD>98000</TD><TD></TD></TR>  <TR><TD COLSPAN="2">&#x5730;&#x8C8C;</TD></TR>  <TR><TD COLSPAN="2"><FONT POINT-SIZE="8"><I>relief, landform </I></FONT></TD></TR>  </TABLE>>,shape="plaintext"];
+	"cat:s98100" [weight="5",label=< <TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0">  <TR><TD>98100</TD><TD></TD></TR>  <TR><TD COLSPAN="2">&#x9AD8;&#x7A0B;</TD></TR>  <TR><TD COLSPAN="2"><FONT POINT-SIZE="8"><I>elevation </I></FONT></TD></TR>  </TABLE>>,shape="plaintext"];
+	"cat:s98200" [weight="5",label=< <TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0">  <TR><TD>98200</TD><TD></TD></TR>  <TR><TD COLSPAN="2">&#x8AF8;&#x5730;&#x8C8C;</TD></TR>  <TR><TD COLSPAN="2"><FONT POINT-SIZE="8"><I>various landform* </I></FONT></TD></TR>  </TABLE>>,shape="plaintext"];
+	"cat:s98210" [weight="5",label=< <TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0">  <TR><TD>98210</TD><TD></TD></TR>  <TR><TD COLSPAN="2">&#x8D77;&#x4F0F;&#x5730;</TD></TR>  <TR><TD COLSPAN="2"><FONT POINT-SIZE="8"><I>relief land </I></FONT></TD></TR>  </TABLE>>,shape="plaintext"];
+	"cat:s98211" [weight="5",label=< <TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0">  <TR><TD>98211</TD><TD></TD></TR>  <TR><TD COLSPAN="2">&#x51F9;&#x5730;</TD></TR>  <TR><TD COLSPAN="2"><FONT POINT-SIZE="8"><I>depression </I></FONT></TD></TR>  </TABLE>>,shape="plaintext"];
+	"cat:s98212" [weight="5",label=< <TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0">  <TR><TD>98212</TD><TD></TD></TR>  <TR><TD COLSPAN="2">&#x571F;&#x58A9;, &#x53F0;&#x5730;, &#x5C0F;&#x4E18;</TD></TR>  <TR><TD COLSPAN="2"><FONT POINT-SIZE="8"><I>mound, terrace, hillock </I></FONT></TD></TR>  </TABLE>>,shape="plaintext"];
+	"cat:s98213" [weight="5",label=< <TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0">  <TR><TD>98213</TD><TD></TD></TR>  <TR><TD COLSPAN="2">&#x65B7;&#x5D16;</TD></TR>  <TR><TD COLSPAN="2"><FONT POINT-SIZE="8"><I>cliff </I></FONT></TD></TR>  </TABLE>>,shape="plaintext"];
+	"cat:s98220" [weight="5",label=< <TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0">  <TR><TD>98220</TD><TD></TD></TR>  <TR><TD COLSPAN="2">&#x5D29;,&#x8755;,&#x98A8;&#x5316;</TD></TR>  <TR><TD COLSPAN="2"><FONT POINT-SIZE="8"><I>collapse,erosion,weathering* </I></FONT></TD></TR>  </TABLE>>,shape="plaintext"];
+	"cat:s98221" [weight="5",label=< <TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0">  <TR><TD>98221</TD><TD></TD></TR>  <TR><TD COLSPAN="2">&#x96E8;&#x88C2;</TD></TR>  <TR><TD COLSPAN="2"><FONT POINT-SIZE="8"><I>ravine </I></FONT></TD></TR>  </TABLE>>,shape="plaintext"];
+	"cat:s98222" [weight="5",label=< <TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0">  <TR><TD>98222</TD><TD></TD></TR>  <TR><TD COLSPAN="2">&#x6D41;&#x571F;</TD></TR>  <TR><TD COLSPAN="2"><FONT POINT-SIZE="8"><I>gully </I></FONT></TD></TR>  </TABLE>>,shape="plaintext"];
+	"cat:s98223" [weight="5",label=< <TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0">  <TR><TD>98223</TD><TD></TD></TR>  <TR><TD COLSPAN="2">&#x5D29;&#x571F;</TD></TR>  <TR><TD COLSPAN="2"><FONT POINT-SIZE="8"><I>colluvial </I></FONT></TD></TR>  </TABLE>>,shape="plaintext"];
+	"cat:s98224" [weight="5",label=< <TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0">  <TR><TD>98224</TD><TD></TD></TR>  <TR><TD COLSPAN="2">&#x60E1;&#x5730;</TD></TR>  <TR><TD COLSPAN="2"><FONT POINT-SIZE="8"><I>badland </I></FONT></TD></TR>  </TABLE>>,shape="plaintext"];
+	"cat:s98230" [weight="5",label=< <TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0">  <TR><TD>98230</TD><TD></TD></TR>  <TR><TD COLSPAN="2">&#x5CA9;&#x5E8A;</TD></TR>  <TR><TD COLSPAN="2"><FONT POINT-SIZE="8"><I>rock </I></FONT></TD></TR>  </TABLE>>,shape="plaintext"];
+	"cat:s98231" [weight="5",label=< <TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0">  <TR><TD>98231</TD><TD></TD></TR>  <TR><TD COLSPAN="2">&#x7368;&#x7ACB;&#x5CA9;</TD></TR>  <TR><TD COLSPAN="2"><FONT POINT-SIZE="8"><I>individual rock </I></FONT></TD></TR>  </TABLE>>,shape="plaintext"];
+	"cat:s98232" [weight="5",label=< <TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0">  <TR><TD>98232</TD><TD></TD></TR>  <TR><TD COLSPAN="2">&#x6563;&#x5CA9;</TD></TR>  <TR><TD COLSPAN="2"><FONT POINT-SIZE="8"><I>scattered rock </I></FONT></TD></TR>  </TABLE>>,shape="plaintext"];
+	"cat:s98233" [weight="5",label=< <TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0">  <TR><TD>98233</TD><TD></TD></TR>  <TR><TD COLSPAN="2">&#x9732;&#x5CA9;</TD></TR>  <TR><TD COLSPAN="2"><FONT POINT-SIZE="8"><I>rocky outcropping </I></FONT></TD></TR>  </TABLE>>,shape="plaintext"];
+	"cat:s98240" [weight="5",label=< <TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0">  <TR><TD>98240</TD><TD></TD></TR>  <TR><TD COLSPAN="2">&#x6C99;&#x4E18;</TD></TR>  <TR><TD COLSPAN="2"><FONT POINT-SIZE="8"><I>sand dune </I></FONT></TD></TR>  </TABLE>>,shape="plaintext"];
+	"cat:s98250" [weight="5",label=< <TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0">  <TR><TD>98250</TD><TD></TD></TR>  <TR><TD COLSPAN="2">&#x6D1E;&#x7A74;</TD></TR>  <TR><TD COLSPAN="2"><FONT POINT-SIZE="8"><I>cave </I></FONT></TD></TR>  </TABLE>>,shape="plaintext"];
+	"cat:s98260" [weight="5",label=< <TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0">  <TR><TD>98260</TD><TD></TD></TR>  <TR><TD COLSPAN="2">&#x706B;&#x5C71;</TD></TR>  <TR><TD COLSPAN="2"><FONT POINT-SIZE="8"><I>volcano </I></FONT></TD></TR>  </TABLE>>,shape="plaintext"];
+	"cat:s98900" [weight="5",label=< <TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0">  <TR><TD>98900</TD><TD></TD></TR>  <TR><TD COLSPAN="2">&#x5176;&#x4ED6;</TD></TR>  <TR><TD COLSPAN="2"><FONT POINT-SIZE="8"><I>other </I></FONT></TD></TR>  </TABLE>>,shape="plaintext"];
+	"cat:s98910" [weight="5",label=< <TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0">  <TR><TD>98910</TD><TD></TD></TR>  <TR><TD COLSPAN="2">&#x6CE5;&#x706B;&#x5C71;</TD></TR>  <TR><TD COLSPAN="2"><FONT POINT-SIZE="8"><I>mud volcano </I></FONT></TD></TR>  </TABLE>>,shape="plaintext"];
+
+	/* relations with attributes */
+	"cat:s98100" -> "cat:s98000" [style="solid",arrowhead="empty"];
+	"cat:s98200" -> "cat:s98000" [style="solid",arrowhead="empty"];
+	"cat:s98210" -> "cat:s98200" [style="solid",arrowhead="empty"];
+	"cat:s98211" -> "cat:s98210" [style="solid",arrowhead="empty"];
+	"cat:s98212" -> "cat:s98210" [style="solid",arrowhead="empty"];
+	"cat:s98213" -> "cat:s98210" [style="solid",arrowhead="empty"];
+	"cat:s98220" -> "cat:s98200" [style="solid",arrowhead="empty"];
+	"cat:s98221" -> "cat:s98220" [style="solid",arrowhead="empty"];
+	"cat:s98222" -> "cat:s98220" [style="solid",arrowhead="empty"];
+	"cat:s98223" -> "cat:s98220" [style="solid",arrowhead="empty"];
+	"cat:s98224" -> "cat:s98220" [style="solid",arrowhead="empty"];
+	"cat:s98230" -> "cat:s98200" [style="solid",arrowhead="empty"];
+	"cat:s98231" -> "cat:s98230" [style="solid",arrowhead="empty"];
+	"cat:s98232" -> "cat:s98230" [style="solid",arrowhead="empty"];
+	"cat:s98233" -> "cat:s98230" [style="solid",arrowhead="empty"];
+	"cat:s98240" -> "cat:s98200" [style="solid",arrowhead="empty"];
+	"cat:s98250" -> "cat:s98200" [style="solid",arrowhead="empty"];
+	"cat:s98260" -> "cat:s98200" [style="solid",arrowhead="empty"];
+	"cat:s98900" -> "cat:s98000" [style="solid",arrowhead="empty"];
+	"cat:s98910" -> "cat:s98900" [style="solid",arrowhead="empty"];
+}

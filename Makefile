@@ -2,30 +2,33 @@
 # Converts SOFT files into PDF diagrams via graphviz
 #
 
-all: RFK-hydrography.pdf RFK-elevation.pdf
+all: RFK-hydrography.pdf RFK-elevation.pdf TMOI-hydrography.pdf TMOI-elevation.pdf
 
-.PRECIOUS: %.gv
+.PRECIOUS: RFK-%.gv TMOI-%.gv
 
 RFK-hydrography.soft: RFK.soft RFK.csv
 	grep ^cat:2 RFK.soft > RFK-hydrography.soft
-	head -1 RFK.csv > RFK-hydrography.csv
-	grep ^2 RFK.csv >> RFK-hydrography.csv
 
 RFK-elevation.soft: RFK.soft RFK.csv
 	grep ^cat:2 RFK.soft > RFK-elevation.soft
-	head -1 RFK.csv > RFK-elevation.csv
-	grep ^2 RFK.csv >> RFK-elevation.csv
 
-RFK-elevation.soft:
+TMOI-hydrography.soft: TMOI.soft TMOI.csv
+	grep ^cat:s95 TMOI.soft > TMOI-hydrography.soft
+
+TMOI-elevation.soft: TMOI.soft TMOI.csv
+	grep ^cat:s98 TMOI.soft > TMOI-elevation.soft
 
 # standard goals
 
-%.gv: %.soft
-	soft2gv.pl --noorphans --tuples=$(patsubst %.soft,%.csv,$^) --styles=features.gvsty $< > $@
+RFK-%.gv: RFK-%.soft
+	soft2gv.pl --noorphans --tuples=RFK.csv --styles=RFK.gvsty $< > $@
+
+TMOI-%.gv: TMOI-%.soft
+	soft2gv.pl --noorphans --tuples=TMOI.csv --styles=TMOI.gvsty $< > $@
 
 %.pdf: %.gv
 	dot -Tpdf -o $@ $<
 
 clean:
-	rm -f *.pdf *.gv RFK-* *~
+	rm -f *.pdf *.gv RFK-* TMOI-* *~
 
