@@ -20,13 +20,13 @@ TMOI-elevation.soft: TMOI.soft TMOI.csv
 
 # standard goals
 
-RFK-%.gv: RFK-%.soft
+RFK-%.gv: RFK-%.soft RFK.gvsty
 	soft2gv.pl --noorphans --tuples=RFK.csv --styles=RFK.gvsty $< > $@
 
-TMOI-%.gv: TMOI-%.soft
+TMOI-%.gv: TMOI-%.soft TMOI.gvsty
 	soft2gv.pl --noorphans --tuples=TMOI.csv --styles=TMOI.gvsty $< > $@
 
-SDTS.gv: SDTS.soft
+SDTS.gv: SDTS.soft SDTS.gvsty
 	soft2gv.pl --noorphans --tuples=SDTSEntityTypes.csv --styles=SDTS.gvsty $< > $@
 
 %.pdf: %.gv

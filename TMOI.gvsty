@@ -7,7 +7,7 @@
         ~label=\
 <TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0"> \
   <TR><TD>@P:code@</TD><TD>@P:loc_en@</TD></TR> \
-  <TR><TD COLSPAN="2">@P:name_ch@</TD></TR> \
+  <TR><TD COLSPAN="2">@P:name_ch@<BR/><FONT POINT-SIZE="8">@P:trans@</FONT></TD></TR> \
   <TR><TD COLSPAN="2"><FONT POINT-SIZE="8"><I>@P:name_en@ </I></FONT></TD></TR> \
 </TABLE>
 \style
