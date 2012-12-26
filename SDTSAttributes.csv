@@ -1,0 +1,242 @@
+ABANDONED,Deserted.
+ACCESS,The type of connection available to a given transportation feature.
+ACIDITY,The degree to which hydrogen ions are held by soil colloids or water.
+ACTIVE/INACTIVE,Engaged in activity versus no longer in use.
+ADMINISTRATION,The organization that has charge of or directs or manages the operation of the feature.
+AERONAUTICAL_NAVIGATIONAL,Involving transmission of special radio signals intended to assist in the determination of aircraft position including that relative to collision hazards.
+AGE,The first year in existence.
+AIR/LAND/WATER,"Existing in or part of the atmosphere, the Earth's dry surface, or a body of water."
+AIRCRAFT_LANDING,Suitable for or designed for aircraft to descend toward and settle on.
+ALTITUDE,"The height of a thing above a reference level, especially above the Earth's surface. See also HEIGHT, ELEVATION."
+ANNUAL_PRECIPITATION,The quantity of rain and snow falling within the period of a year.
+ARCHITECTURAL_PROPERTIES,The style or method of design or construction.
+AREA,The measure of a planar region of the Earth's surface.
+AREA_DIVIDED,The part of the Earth's surface apportioned.
+ARTIFICIALLY_IMPROVED/MANMADE/NATURAL,Artificially improved: naturally existing feature with manmade alterations; manmade: made by man rather than occurring in nature; natural: present in or produced by nature.
+ATTACHED_TO_LAND,Connected to a body of land.
+BARE,"Exposed, not covered with such things as ice, snow or trees."
+BEARING_CAPACITY,The ability of a surface or a structure to bear weight.
+BLIND/OPEN,"Blind, not having an outlet versus open, allowing continuous passage."
+BOUNDARY_MARKER,Serving to preserve and identify the location of the boundary line.
+BRAIDED,Split into many parts or choked with sandbars that divide it into an intricate network of interlacing channels.
+BRANCH/PARENT,Relationship between a main stream and one of its tributaries.
+BUILDINGS_NUMBER_OF,The number of permanent walled constructions present.
+BUOYED,Marked with buoys used as navigation aids.
+CARGO_TRANSPORTATION,Used for the moving of freight from one place to another.
+CHAMBERS_NUMBER_OF,The number of enclosed spaces or compartments.
+CHARTED_DEPTH,The vertical distance from the tidal datum to the bottom.
+CIRCUMFERENCE,The length of the boundary line of any closed curvilinear feature.
+CLEARANCE,The vertical distance from a surface to the nearest overhead obstruction.
+COASTAL,Pertaining to the edge of land next to the sea.
+COG,Equipped with teeth to transmit motive force to a corresponding wheel.
+COLOR,That aspect of things that is caused by differing wave lengths of light reflected or emitted by them.
+COLOR_PATTERN,The color or combination of colors in the geometrical design or pattern.
+COMMERCIAL,Used or exploited for financial gain.
+COMMERCIAL_SHIPPING,Travel or traffic by water vessels carrying commercial goods.
+COMMUNICATION/NONCOMMUNICATION,Used for transmission or reception of communication signalsversus not used for the transmission or reception of communication signals.
+COMPOSITION,The specified mixture or combination of one or more elements or ingredients.
+CONNECTED_BY_SWITCHES/MAIN_TRACK,"Connected by switches: a railway segment such as a siding or spur, requiring passing through a switch to gain access to the main track."
+CONSTRICTION,Having a narrow place in the feature.
+CONSTRUCTION_TYPE,The structural configuration of a feature.
+CONTINENTAL_DIVIDE,Separates drainage basins that flow to opposite sides of a continent.
+CONTROL,To exercise authority or dominating influence over; direct; regulate/verify.
+CONTROL_OVER_WATER_LEVEL,Having some means of regulating the height of a specific body of water.
+CONTROLLING_DEPTH,The least depth in the approach or channel to an area governing the maximum draft of vessels that can enter.
+CONTROLLED/UNCONTROLLED,Authority or dominating influence exercised over; directed; applies to air traffic near and at an airport.
+COVERED/UNCOVERED,Having something placed over the feature versus not having anything over it.
+CROP_USE,The employment or purpose of an agricultural product.
+CROSS_SECTIONAL_AREA,A section formed by a plane cutting through an object at right angles to an axis.
+CULTIVATED,Improved and prepared land; plowed or fertilized or tended for growing crops.
+DANGER_TYPE,The kind of or source of peril.
+DANGEROUS,Involving or fraught with danger; perilous. Apt or able to do harm.
+DECIDUOUS/EVERGREEN,"Deciduous, characterized by shedding foliage at the end of its growing season."
+DENSITY_OF_GROWTH,The degree or measured degree to which the area is filled or occupied by plant life.
+DEPTH_BELOW_GROUND_SURFACE,Distance downward from the elevation of the local ground surface to the bottom of a feature.
+DIAGNOSTIC,Used to check system accuracy.
+DIAMETER,The length of a line segment passing through the center of a circular shaped feature.
+DIRECTION,The relationship by which the alignment or orientation of any position with respect to any other position is established.
+DIRECTION_OF_FLOW,The line or course of movement of water or lava shown by the position of one point relative to another without reference to the distance between them. The direction is usually indicated in terms of its angular distance from a reference direction.
+DISCHARGE,Cubic measure of water flowing per unit of time.
+DISCOLORED,Having a changed or spoiled color.
+DRAINAGE,Used for removing water from the ground surface.
+DRAINED,Water has been drawn off the ground surface.
+DREDGED,Deepened by various machines equipped with scooping or suction devices usually attached to barges or boats.
+DUAL_GAUGE,Having a third rail to permit use by non-standard gauge rolling stock.
+DWELLING,Used as a residence or an abode.
+EDDIES_PRESENT,Presence of currents moving contrary to the direction of the main current especially in a circular motion.
+ELECTRIFIED,Equipped for use by electric power driven engines.
+EMBANKED,"Confined, supported or protected by a piled up mass."
+ELEVATION,"Vertical distance above or below a vertical datum, especially on the Earth's surface. See also ALTITUDE and DEPTH_BELOW_GROUND_SURFACE."
+EMBEDDED_IN_PAVEMENT,Permits land vehicles to travel along a railway.
+ENCLOSED,Surrounded on all sides by for example a fence.
+EQUIPMENT_PRESENT,Devices or machinery or tools present.
+EVENT_HELD,The organized program or parts of a program taking place at the site.
+EXERCISE,Used for activities that require physical exertion especially when performed to develop or maintain fitness.
+EXISTING/PROPOSED,Previously constructed and presently existing versus in the planning stage.
+EXPOSED/SHELTERED,Not protected versus protected as from the weather.
+EXTERNAL_CONSTRUCTION_MATERIAL,The specified mixture or combination of elements used to construct the outer layer of the feature.
+FACILITIES_PRESENT,The structures or installations available for enhancing the use of the feature being described.
+FALLOW,Cultivated land that is allowed to lie idle during the growing season.
+FEATURE_BOUNDED,The feature that has its border identified or marked.
+FEATURE_CONNECTED,Another feature which is joined to the feature being described.
+FEATURE_CROSSED_CONNECTED,The feature that is passed under by the feature being described.
+FEATURE_MARKED,"The feature that is distinguished by some physical sign, symbol or visible impression or some physical object."
+FEATURE_PRESENT,"Presence of one feature within another feature, for example, dam in watercourse, breakwater in harbor."
+FEATURE_SPANNED,A feature that the feature being described crosses above without joining.
+FEATURE_SUPPORTED,The feature that has its weight borne from below by the feature being described.
+FIRE_LINE,Cleared or plowed strip of land to stop the spread of fire.
+FLOATING,Suspended within or on the surface of water.
+FLOOD_CONTROL,Designed for the control or drainage of a rising and overflowing body of water.
+FLOOD_FREQUENCY,How often an area is subject to inundation.
+FLOODED,Inundated with or submerged under an excess amount of water.
+FORCE_OF_FLOW,The strength of energy exerted by the movement of water or lava.
+FORM_RATIO,"The relationship between the depth and width of a stream, expressed as a ratio."
+FOUL_GROUND,"Having holding qualities for anchoring that are poor, or where danger of striking or fouling the ground or other obstructions exist."
+FUNCTION,The activity or need that the feature is designed for or adapted to.
+GAS_EMITTED_TYPE,Kind of gaseous substance released.
+GLACIAL,"Of, pertaining to or derived from a glacier."
+GRADE_SEPARATION,An intersection using an overpass or underpass.
+GRAZING,Land which supplies herbage for grazing animals.
+GROWING_PATTERN,The layout or arrangement of growing plant life.
+GROWING_SEASON,The period of time during the year characterized by environmental conditions suitable for planting and growing crops.
+HEIGHT,The vertical distance from the base to the top.
+HORIZONTAL/VERTICAL,Parallel to or in the plane of the horizon versus perpendicular to the plane of the horizon.
+HYDRAULIC_RADIUS,The ratio between the cross-sectional area of a stream and its wetted perimeter.
+HYDROELECTRIC_POWER,Used for the production of electricity by water power.
+ICE_PRESENT,Containing water which is either partially or completely frozen.
+INCORPORATED/UNINCORPORATED,United or combined into an organized body which is maintained through a series of laws or rules.
+INFORMATION_DISPLAYED,The idea communicated through exhibition.
+INTERMITTENT/PERENNIAL,Occurring or appearing in interrupted sequence versus present at all seasons of the year.
+INTERNATIONAL_DATE_LINE,"The imaginary line through the Pacific Ocean roughly corresponding to 180 degrees longitude, to the east of which, by international agreement, the calendar date is one day earlier than to the west."
+IRRIGATED,"Supplied with water by means of pipes, ditches or streams for agricultural purposes."
+IRRIGATION,Used for the supplying of water by artificial means to land for agricultural purposes.
+ITEM(S)_STORED,The articles or substances reserved or put away for future use.
+LAND_USE_ CATEGORY,Broad classification of the use of land for planning and zoning purposes.
+LANDFILL,Land being rehabilitated for future productive use.
+LANDING/TAKE-OFF/TAXIING,Used as the place for aircraft to descend from flight or to rise up into flight versus the place for aircraft to roll to and from the landing/take-off place.
+LANDMARK,A prominent and identifying feature of a landscape.
+LANES_NUMBER_OF,"The number of paths available side by side for the simultaneous passage of vehicles in a road, railway or navigation route."
+LATITUDINAL_ZONE,"One of the large regions delimited by distance from the equator, used as a basis for classifying climates."
+LEADING_LIGHTS,Presence of two or more lights forming a leading line or course to be followed.
+LEAD_TYPE,Characteristics or category of lead.
+LENGTH,The longer or longest dimension of a feature.
+LEVEL_SURFACE,A tract with a relatively uniform horizontal uppermost layer.
+LIGHT_CHARACTERISTIC,The distinctive character or quality typical of a specific light emitted.
+LIGHT_DISPLAY,The sequence and approximate length of light and dark periods of a specific light.
+LIGHTED/UNLIGHTED,"Marked with lights used as aids to navigation, or to general night use."
+LIGHTS_IN_A_LINE,"Presence of lights marking area limits, cable alignments for anchoring, etc., not marking direction or course."
+LOADING/UNLOADING,Used as a place where cargo or passengers can be receivedor discharged.
+LOCATION,"The place, site or space occupied by a specified feature."
+MATERIAL_CONVEYED,The substance or item(s) being transported.
+MATERIAL_PROCESSED,The substance being altered through an industrial procedure.
+MEAN_HIGH_WATER,The tidal datum that is the arithmetic average of the high water heights observed over a specific 19-year metonic cycle. See also DATUM.
+MEAN_SEA_LEVEL,A standard datum for heights and elevation in coastal areas.
+MEDIAN_PRESENT,"Presence of a dividing area often paved or landscaped, between opposing lanes."
+MEMORIAL,Designed or established to serve as a remembrance to a person or an event.
+METHOD_OF_MEASUREMENT,Determined astronomically versus determined by triangulation
+MICROWAVE_TRANSMISSION,The act or process of sending a signal of electromagnetic radiation having a wavelength in the approximate range from one centimeter to one meter.
+MINERAL_CONTENT,"Presence of any naturally occurring, homogeneous inorganic substances."
+MOUNTED,Fitted into or set in a backing or support.
+MOVABLE/STATIONARY,Ability to change position versus fixed in position unable to move.
+NAME,A word or phrase that constitutes the distinctive designation of an occurrence of a feature.
+NAVAIDS,Serving as aids to navigation.
+NAVIGABLE,Having water deep enough and wide enough to afford passage to ships; capable of being steered.
+NEGOTIATED/UNILATERAL,Arranged or settled through consultation and agreement with two or more parties versus arranged or settled by one party without consultation or agreement with any other interested party.
+NUMBER_OF_SITES,The number of places or plots of land designated for a specific use.
+OBSERVATION,Used as a place to watch over attentively.
+OBSTRUCTION,Acting as an obstacle impeding passage.
+OFFSHORE/ONSHORE,Located or occurring at a distance from shore versus located or occurring on shore.
+ONE_WAY/TWO_WAY,Accommodating a lane or lanes of traffic moving in one direction only versus traffic moving in opposing directions.
+OWNER_TYPE,Characteristics or category of owners of the feature.
+PARK_ATTRACTION,The presence of various mechanical contraptions operated as amusement park entertainment.
+PASSENGER_TRANSPORTATION,Used for the conveyance of human passengers.
+PASSING,Used for traveling at a faster speed or for going around others using the feature.
+PEDESTRIAN_USE,Used by people traveling on foot.
+PERMANENTLY_ICE_COVERED,Having a fixed outer layer of ice which does not melt.
+PERMEABILITY,The ability of substances to pass through the openings or interstices.
+PHYSICAL,Of or pertaining to material things.
+PHYSICAL_CONDITION_OF_FEATURE,The state of repair of a feature or the extent of deterioration.
+PHYSICAL_CONDITION_OF_SURFACE_MATERIAL,The physical condition of a specified transportation surface which allows for use ranging from sustained use by heaviest vehicles to non-use due to disrepair or deterioration.
+POPULATION,The number of people inhabiting a specified area.
+PREDOMINANT_SPECIES,"The most common, conspicuous, or prevalent animal or life belonging to a distinct biological species."
+PRIMARY/SECONDARY/TERTIARY/QUATERNARY,"Order of importance, degree of priority or degree of use."
+PRODUCT,The item or substance produced through an industrial process.
+RADAR_GUIDED,Users directed or steered by signals of reflected high frequency radio waves.
+RADAR_TYPE,The kind of or intensity of the high frequency radio waves used for guidance or detection of objects.
+RADIO_SIGNAL_CHARACTERISTIC,The distinctive characteristic or quality typical of a specific radio signal emitted.
+RADIO_TRANSMISSION,"Used for or containing the equipment used to transmit radio signals, electromagnetic waves in approximate frequency range from 10 kilocycles/second to 300,000 megacycles/second. To transmit or to receive electric signals without wires connecting the points of transmission and reception."
+RAIL_CONNECTOR_TYPE,The method used to join or connect consecutive rails of a specific rail line or segment.
+RAIL_DIRECTION_CHANGES,Facility available at a specific location to change the direction of a locomotive.
+RAIL_GAUGE,The distance between two rails of a railway track.
+RAIL_GAUGE_ADAPTABILITY,Method used to change the gauge on a specific piece orcategory of railway equipment.
+RAILS_NUMBER_OF,Having parallel bars for conveyance versus a single bar system.
+RECOGNIZED/UNRECOGNIZED,Acknowledged as being valid versus not acknowledged.
+RECREATIONAL,Used for the refreshment of one's mind or body after labor through diverting activity; play.
+RELATIONSHIP_TO_GROUND_SURFACE,The occupation of space in relation to the solid surface of the Earth.
+RELATIONSHIP_TO_WATER_SURFACE,The position of the feature above or below the surface of the local water feature.
+RELIEF,The difference between high and low places in a locality.
+RESTRICTIONS,"Limitations on the use for legal, safety, security or other reasons."
+ROAD_TYPE,Characteristics or category of road.
+RUNWAYS_NUMBER_OF,The number of prepared surfaces available to accommodate the landing and take-off of aircraft.
+SAFE_PASSAGE,Having been established as a route free from hazards.
+SALINITY,"The proportion of dissolved salts in pure water, stated in parts per thousand by mass."
+SCREEN_PRESENT,The presence of a large flat white or silver surface upon which a picture is projected.
+SEA_ICE_PRESENT,Presence of more than 10 percent sea ice inhibiting free navigation.
+SEASON_USED,"The specified season or time of year that something can be used, especially in reference to something that is dependent on or controlled by seasonal changes."
+SEASONAL_DEPTH,The measurement from the water surface to the bottom of that water body at different seasons; used in relation to water bodies which have marked changes due to season change.
+SEAWEED_PRESENT,"Presence of any of numerous marine algae, such as kelp, rockweed, or gulfweed."
+SERVICES_PROVIDED,Kinds of services provided at a given facility. See also FACILITIES AVAILABLE.
+SHAFTS_NUMBER_OF,The number of long narrow passages sunk in the Earth.
+SHAPE,Spatial form.
+SHARP_CURVE,Presence of an abrupt acute bend in the feature.
+SHORE_ORIENTATION,"The position of something relative to the shore, for example, parallel."
+SIGNAL_DIRECTION,"The line or course along which the sound, image, or other transmitted message travels."
+SIGNAL_INTENSITY,The concentration of power or force of the signal emitted.
+SIGNAL_TYPE,The kind of electronic impulse used for communication.
+SINGLE_WIRE/MULTIPLE_WIRES,Presence of one strand of wires versus more than one strand of wire together.
+SIZE,"The physical dimensions, proportions, magnitude, or extent of something."
+SLIPS_NUMBER_OF,The number of spaces between wharfs or piers designed to accommodate water vessels.
+SLOPE,The slant or deviation from horizontal measured in degrees.
+SLOPE_OF_SHAFT,The slant or deviation from horizontal measured in degrees of the shaft.
+SLOPE_OF_SIDES,"Same as for ""SLOPE,"" but measured between the upper and lower surfaces of the feature, along its sides."
+SMOKE_EMISSION,"The venting of vapor made up of small particles of carbonaceous matter in the air, resulting mainly from incomplete combustion of organic material, such as wood or coal."
+SOIL_TEXTURE,The kind of ground material characterized by the relative proportions of the various size groups of individual soil grains in a mass of soil.
+SOIL_TYPE,The principal unit used in soil mappings as defined by the Soil Conservation Service.
+SOUND_CHARACTERISTIC,The distinctive character of quality typical of a specific sound emitted.
+SOVEREIGNTY,The supreme authority or control over the feature.
+SPAN_LENGTH,The length of the section between intermediate supports of a bridge.
+SPAN_MOVEMENT,The manner in which the section between two intermediate supports of a bridge moves.
+SPECIES,"A fundamental category of taxonomic classification, ranking after a genus, and consisting of organisms capable of interbreeding."
+SPECIES_CULTIVATED,The form of life grown and nurtured for harvest.
+SPORTS_TYPE,The type of organized competitive game(s) that the feature is used for.
+STAFFED/UNSTAFFED,Presence or absence of personnel who carry out a specific enterprise.
+STORAGE,Used for maintaining a stock or supply for future use.
+STRUCTURE_TYPE,The configuration or arrangement of a feature.
+SUBSTANCE_EXTRACTED,"The matter (liquid, solid or gaseous) being drawn forth by mechanical or chemical processes."
+SUPPORT_TYPE,The kind of feature used to bear the weight of the feature being described.
+TELEVISION_TRANSMISSION,"The transmission of visual images of moving and stationary objects, generally with accompanying sound, as electromagnetic waves, and the reconversion of received waves into visual images."
+TEMPERATURE,A specific degree of hotness or coldness as indicated on or referred to a standard scale.
+TIDAL,Subject to the alternating rise and fall of water level caused by the astronomic tide-producing forces.
+TOLL,"A fixed charge or tax for access, especially for passage across a bridge or along a road."
+TRAFFIC_LIGHTS_ PRESENT,Presence of road signals that beam a red or green light or an amber warning light to direct traffic to stop or proceed.
+TRANSPORTATION_MODE_ACCOMMODATED,The kind of transportation that a feature is adapted to or suited to.
+TREE_COVER,The amount or density of tall woody plants occupying the surface of a specified area.
+TREE_LINED,Having a border of trees along its sides.
+UNDERGROWTH_PRESENT,"Presence of low growing plants, saplings, and shrubs beneath the trees in a forest."
+USER_TYPE,Characteristics or category of users of the feature.
+VEHICLE_ACCOMMODATED,The type of vehicle that the feature is adapted to or designed to serve.
+VEHICLE_SIZE_SERVED,"The physical dimension, proportion, magnitude, or extent of any device for carrying passengers, goods, or equipment that the specified feature has space for storage or service for."
+VENT_PRESENT,Presence of an opening permitting the passage or escape of liquids or gas.
+VOLCANIC,Pertaining to or produced by volcanic eruptions.
+VOLUME,Space occupied or cubic capacity as measured in cubic units.
+WASTE_MATERIAL,The useless or worthless byproducts of a process or the like; refuse or excess material.
+WATER_BODY_CONNECTION,Acting as a link between two larger bodies of water.
+WATER_PRESENT,Presence of water in the feature.
+WATER_SUPPLY,Equipped or used to furnish water.
+WATERAGE,The movement of goods or merchandise (such as logs) by water.
+WETTED_PERIMETER,Length of the line of cross-sectional contact between the water in a stream and its watercourse.
+WIDTH,The maximum horizontal measurement taken at right angles to the length; breadth; the maximum horizontal measurement of the extent of something from side to side.
+WINDBREAK,"A hedge, row of trees, or fence serving to lessen or break the force of the wind."
+WIRE_DRAGGED,Cleared of hazards through the use of a wire dragged through the water.
+WORK_IN_PROGRESS,Presence of construction or other work that is incomplete and that may limit access or pose some hazard.
+ZOO,Presence of wild animals for public display.

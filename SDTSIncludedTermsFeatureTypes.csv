@@ -1,0 +1,1131 @@
+incterm,ents
+Accessway,ROAD
+Administrative boundary,BOUNDARY
+Aeration beds,FILTRATION BEDS
+Aerial cableway,CABLEWAY
+Aerial cableway lines,CABLEWAY
+Aerial cableway pylon,TOWER
+Aerodrome,AIRPORT
+Aerodrome beacon,BEACON
+Aerodrome control tower,TOWER
+Aeronautical beacon,BEACON
+Aeronautical light,BEACON
+Aeronautical navigational radio station,"BUILDING, BUILDING COMPLEX"
+Aeronautical radio beacon,BEACON
+Air beacon,BEACON
+Air route,LANE
+Airdrome,AIRPORT
+Airfield,RUNWAY
+Airfield revetment,WALL
+Airport beacon,BEACON
+Airport traffic area,APPROACHWAY
+Airport traffic control tower,TOWER
+Airstrip,RUNWAY
+Alley,ROAD
+Alluvial fan,DELTA
+Alternate aerodrome,AIRPORT
+Alternating light,BEACON
+Amphitheater,OUTDOOR THEATER
+Amusement park,PARK
+Anabranch,WATERCOURSE
+Anchor buoy,BUOY
+Anchor light,BEACON
+Anchorage,HARBOR
+Anchorage buoy,BUOY
+Animal sanctuary,PARK
+Animal sanctuary boundary,BOUNDARY
+Anse,INLET
+Apartment building,BUILDING
+Apartment complex,BUILDING COMPLEX
+Approach area,APPROACHWAY
+Approach lights,BEACON
+Approach path,APPROACHWAY
+Approach to highway,ROAD
+Apron,"PARKING AREA, PLAIN"
+Aqueduct,WATERCOURSE BRIDGE
+Arched iceberg,ICEBERG
+Archipelago,"SEA, ISLAND CLUSTER"
+Archipelago apron,PLAIN
+Arctic pack,ICE FIELD
+Arena,BUILDING
+Arete,RIDGE
+Arm,INLET
+Armistice line,BOUNDARY
+Armory,"BUILDING, BUILDING COMPLEX"
+Army camp,MILITARY BASE
+Arroyo,WATERCOURSE
+Art gallery,BUILDING
+Artificial harbor,HARBOR
+Athletic club,BUILDING
+Astronomic position,CONTROL POINT
+Athletic field,SPORTS FIELD
+Atoll,"REEF, ISLAND"
+Atoll reef,REEF
+Auditorium,BUILDING
+Automobile plant,BUILDING COMPLEX
+Auxiliary aerodrome,AIRPORT
+Avenue,ROAD
+Awash rock,ROCK
+Awawa,WATERCOURSE
+Back marsh,WETLAND
+Backswamp,WETLAND
+Bald,"CLEARING, MOUNT"
+Ball,BAR
+Ball park,"PARK, SPORTS FIELD"
+Bamboo,WOODLAND
+Bandstand,OUTDOOR THEATER
+Bank,"MOUNT, SHORE"
+Bank reef,REEF
+Bar buoy,BUOY
+Bar port,PORT
+Bare rock,ROCK
+Barn,BUILDING
+Barracks,"BUILDING, BUILDING COMPLEX"
+Barrage,DAM
+Barranca,WATERCOURSE
+Barrier basin,BASIN
+Barrier beach,BAR
+Barrier flat,"WETLAND, FLAT"
+Barrier iceberg,ICEBERG
+Barrier island,"BAR, ISLAND"
+Barrier lagoon,LAGOON
+Barrier reef,REEF
+Bascule bridge,BRIDGE
+Battery,FORT
+Bay,INLET
+Bay head bar,BAR
+Bay bar,BAR
+Bay barrier,BAR
+Bay delta,DELTA
+Bay ice,ICE FIELD
+Baymouth bar,BAR
+Bayou,"LAKE, WATERCOURSE"
+Beach berm,BEACH
+Beach cusps,RIDGE
+Beach face,SHORE
+Beach ridge,RIDGE
+Beach scarp,CLIFF
+Beaver dam,DAM
+Beck,WATERCOURSE
+Bell buoy,BUOY
+Bench,TERRACE
+Bench mark,CONTROL POINT
+Bend,WATERCOURSE
+Bery,"MOUNT, ICEBERG"
+Bicycle path,ROAD
+Bicycle trail,ROAD
+Bifurcation buoy,BUOY
+Bight,INLET
+Billboard,SIGN
+Bird sanctuary,PARK
+Blanket bog,WETLAND
+Blast barrier,WALL
+Bluff,"CLIFF, WOODLAND"
+Boardwalk,ROAD
+Boat basin,HARBOR
+Boat harbor,HARBOR
+Boat landing,"WHARF, PIER, LANDING PLACE"
+Boathouse,BUILDING
+Bog,WETLAND
+Bollard,MOORING
+Boom,BREAKWATER
+Borough,PLACE
+Borrow pit,MINE
+Botanical garden,PARK
+Boulevard,ROAD
+Boundary line,BOUNDARY
+Boundary lights,BOUNDARY BEACON
+Boundary monument,CONTROL POINT
+Boundary sign,SIGN
+Braided river,WATERCOURSE
+Braided stream,WATERCOURSE
+Brake,WOODLAND
+Branch,WATERCOURSE
+Brigalow,WOODLAND
+Brine well,WELL
+Brook,WATERCOURSE
+Brush,WOODLAND
+Built up area,PLACE
+Bulkhead,"BREAKWATER, EMBANKMENT, WALL"
+Burn,CLEARING
+Burnt over area,CLEARING
+Bush,WOODLAND
+Butte,PLATEAU
+Caatinga,WOODLAND
+Cable,UTILITY
+Cable buoy,BUOY
+Cadastral boundary,BOUNDARY
+Cadastral monument,CONTROL POINT
+Cairn,CONTROL POINT
+Caisson,GATE
+Caldera,CRATER
+Calibration radiobeacon,BEACON
+Camber,HARBOR BASIN
+Campsite,CAMPGROUND
+Can buoy,BUOY
+Canal,WATERCOURSE
+Canal port,PORT
+Cannery,"BUILDING, BUILDING COMPLEX"
+Canyon,VALLEY
+Canyon delta,DELTA
+Carline,RAILWAY
+Cart track,ROAD
+Cascade,WATERFALL
+Cask buoy,BUOY
+Cataract,RAPIDS
+Catch basin,"LAKE, TANK"
+Cathedral,BUILDING
+Cattle gate,GATE
+Cattle underpass,TUNNEL
+Cauldron,BASIN
+Causeway,ROAD
+Cavern,CAVE
+Cay,ISLAND
+Cease fire line,BOUNDARY
+Ceja,CLIFF
+Cement plant,BUILDING COMPLEX
+Cerrito,MOUNT
+Cerro,"MOUNT, RIDGE"
+Chanaral,WOODLAND
+Channel,"WATERCOURSE, LANE"
+Channel buoy,BUOY
+Channel light,BEACON
+Channel marker,"BEACON, BUOY"
+Chaparral,WOODLAND
+Chapeirao,PINNACLE
+Chasm,VALLEY
+Checkered buoy,BUOY
+Chemical plant,BUILDING COMPLEX
+Church,BUILDING
+Cinder cone,MOUNT
+Circular beacon,BEACON
+Cistern,TANK
+City,PLACE
+City hall,BUILDING
+City limits,BOUNDARY
+City square,PARK
+Claim line,BOUNDARY
+Cleared area,CLEARING
+Clinic,BUILDING
+Closed bay,INLET
+Closed sea,SEA
+Clover leaf interchange,INTERSECTION
+Coastal shoreline,SHORELINE
+Coast guard station,"BUILDING, BUILDING COMPLEX"
+Coast guard lines,BOUNDARY
+Coastal area,COAST
+Coastal plain,"PLAIN, COAST"
+Coastline,SHORELINE
+Code beacon,BEACON
+Col,GAP
+College,"BUILDING, BUILDING COMPLEX"
+Colored light,BEACON
+Colregs demarcation line,BOUNDARY
+Combination buoy,BUOY
+Community,PLACE
+Conical buoy,BUOY
+Coniferous forest,WOODLAND
+Conservation area,RESERVE
+Continental glacier,ICE FIELD
+Continental ice,ICE FIELD
+Continuous radiobeacon,BEACON
+Control survey monument,CONTROL POINT
+Control tower,TOWER
+Controlled access road,ROAD
+Controlled aerodrome,AIRPORT
+Convent,BUILDING
+Cooling tower,TOWER
+Copse,WOODLAND
+Convention mandate line,BOUNDARY
+Coral head,PINNACLE
+Coral reef,REEF
+Corduroy road,ROAD
+Coulee,"VALLEY, WATERCOURSE"
+Course,"LANE, WATERCOURSE"
+Courthouse,BUILDING
+Cove,INLET
+Covered bridge,BRIDGE
+Crag,"CLIFF, PINNACLE"
+Creek,WATERCOURSE
+Crematorium,BUILDING
+Crest,RIDGE
+Crevice,"CREVASSE, VALLEY"
+Crossing,INTERSECTION
+Crossing gate,GATE
+Cuesta,"RIDGE, MOUNT"
+Cul de sac,ROAD
+Cultivated field,CROPLAND
+Cultivated area,CROPLAND
+Culvert,WATERCOURSE
+Cuspate bar,BAR
+Cuspate spit,BAR
+Custom boundary,BOUNDARY
+Cut line,CLEARING
+Cut off,WATERCOURSE
+Dale,VALLEY
+Dan buoy,BUOY
+Danger buoy,BUOY
+Dangerous wreck,WRECK
+Dangerous rock,ROCK
+Daybeacon,BEACON
+Dead end street,ROAD
+Deciduous forest,WOODLAND
+Deep,TROUGH
+De facto boundary,BOUNDARY
+Defile,"GAP, VALLEY"
+Dell,VALLEY
+Delta moraine,MORAINE
+Demilitarized line,BOUNDARY
+Depot,BUILDING
+Depression,"BASIN, VALLEY"
+Diagnostic point,CONTROL POINT
+Diamond intersection,INTERSECTION
+Dike,EMBANKMENT
+Directional beacon,BEACON
+Directional antenna,ANTENNA
+Dish,ANTENNA
+Disk,ANTENNA
+Dismal,WETLAND
+Display sign,SIGN
+Disposal area,DUMPING GROUND
+Disposal bed,DUMPING GROUND
+Distributary,WATERCOURSE
+Ditch,WATERCOURSE
+Divided highway,ROAD
+Dock,BERTH
+Dockyard,SHIPYARD
+Dolphin,MOORING
+Dome,MOUNT
+Double track railway,RAILWAY
+Down,GRASSLAND
+Downland,GRASSLAND
+Downs,GRASSLAND
+Drain,WATERCOURSE
+Drainage basin,CATCHMENT
+Draw,WATERCOURSE
+Draw bridge,BRIDGE
+Dredged channel,"LANE, WATERCOURSE"
+Dredging buoy,BUOY
+Drill hall,BUILDING
+Drive in theater,OUTDOOR THEATER
+Driveway,ROAD
+Drowned valley,VALLEY
+Drumlin,"MOUNT, RIDGE"
+Dry harbor,HARBOR
+Dual highway,ROAD
+Dump,DUMPING GROUND
+Dump site,DUMPING GROUND
+Dyke,EMBANKMENT
+Early warning radar site,"BUILDING, BUILDING COMPLEX"
+Ecological area,RESERVE
+Electric power generating station,"BUILDING, BUILDING COMPLEX"
+Electrical tower,TOWER
+Electric substation,"BUILDING, BUILDING COMPLEX"
+Elevated highway,ROAD
+Elevation point,CONTROL POINT
+End moraine,MORAINE
+Engine test cell,"BUILDING, BUILDING COMPLEX"
+Entrance lock,LOCK
+Entrepot,PORT
+Equatorial forest,WOODLAND
+Equatorial rain forest,WOODLAND
+Escarpment,CLIFF
+Esker,RIDGE
+Estuary,"INLET, MOUTH"
+Everglade,WETLAND
+Excavation,MINE
+Expressway,ROAD
+Factory,"BUILDING, BUILDING COMPLEX"
+Fairground,EXHIBITION GROUND
+Fairway,LANE
+Fairway buoy,BUOY
+Falls,WATERFALL
+Fan,DELTA
+Fan delta,DELTA
+Fan marker beacon,BEACON
+Farm lane,ROAD
+Feedlot,STOCKYARD
+Fen,WETLAND
+Ferry,"WHARF, PIER"
+Ferry crossing,LANE
+Ferry site,"BERTH, PIER, WHARF"
+Ferry slip,BERTH
+Ferry station,BUILDING
+Ferry terminal,"PIER, WHARF"
+Field,"CROPLAND, GRASSLAND"
+Filling station,"BUILDING, BUILDING COMPLEX"
+Filtration plant,BUILDING COMPLEX
+Fiord,INLET
+Fire line,CLEARING
+Fire lookout tower,TOWER
+Fire lookout building,BUILDING
+Fire road,ROAD
+Fire station,"BUILDING, BUILDING COMPLEX"
+Fire tower,TOWER
+Firebreak,CLEARING
+Firth,INLET
+Fish haven,FISHING GROUND
+Fish net buoy,BUOY
+Fish pound,FISH TRAP
+Fish stakes,"FISH TRAP, POST"
+Fish trap area,FISHING GROUND
+Fish weir,FISH TRAP
+Fishery,"FISHING GROUND, FISH HATCHERY"
+Fishing zone,FISHING GROUND
+Fixed and flashing light,BEACON
+Fixed and group flashing light,BEACON
+Fixed light,BEACON
+Fjord,INLET
+Flag tower,TOWER
+Flame float,BUOY
+Flare pipe,CHIMNEY
+Flashing light,BEACON
+Floating breakwater,BREAKWATER
+Floating dock,DRY DOCK
+Floating marsh,WETLAND
+Floeberg,ICEBERG
+Floodgate,GATE
+Flume,WATERCOURSE
+Fog signal,BEACON
+Footbridge,BRIDGE
+Foothill,MOUNT
+Footpath,ROAD
+Forces base,MILITARY BASE
+Foredeep,TROUGH
+Foreland,PENINSULA
+Foreshore,SHORE
+Foreshore flats,BEACH
+Forest,WOODLAND
+Forest/park boundary,BOUNDARY
+Forest reserve,RESERVE
+Fork,WATERCOURSE
+Freeway,ROAD
+Fringing reef,REEF
+Funeral home,BUILDING
+Garage,BUILDING
+Garden,CROPLAND
+Garigue,WOODLAND
+Gas field,OIL FIELD
+Gasometer,TANK
+Glacial gorge,VALLEY
+Glacial moraine,MORAINE
+Glacial stream,WATERCOURSE
+Glacial trough,VALLEY
+Glacier,ICE FIELD
+Glacier berg,ICEBERG
+Glacier iceberg,ICEBERG
+Glacier tongue,ICE FIELD
+Glade,"CLEARING, GRASSLAND"
+Glen,VALLEY
+Goe,VALLEY
+Golf driving range,GOLF COURSE
+Gorge,VALLEY
+Graben,VALLEY
+Grade crossing,INTERSECTION
+Grade intersection,INTERSECTION
+Grain elevator,BUILDING
+Granary,BUILDING
+Grave marker,MONUMENT
+Gravel pit,MINE
+Graveyard,CEMETERY
+Graving dock,DRY DOCK
+Greenhouse,BUILDING
+Groin,BREAKWATER
+Grotto,CAVE
+Grove,WOODLAND
+Groyne,BREAKWATER
+Guide rail,GUARD RAIL
+Gulch,"VALLEY, WATERCOURSE"
+Gulf,INLET
+Gully,"VALLEY, WATERCOURSE"
+Gut,WATERCOURSE
+Gutter,WATERCOURSE
+Guyot,PLATEAU
+Half tide basin,LOCK
+Hamlet,PLACE
+Hangar,BUILDING
+Harbor limit,BOUNDARY
+Harbor line,BOUNDARY
+Harbor of refuge,HARBOR
+Haven,HARBOR
+Hay meadow,GRASSLAND
+Head,PENINSULA
+Headland,PENINSULA
+Heath,"WOODLAND, WETLAND"
+Hedgerow,HEDGE
+Helicopter landing pad,HELIPAD
+Heliport,AIRPORT
+Herbaceous area,GRASSLAND
+Highway,ROAD
+Highway route number,SIGN
+Hill,MOUNT
+Hillock,MOUNT
+Hockey rink,ICE RINK
+Holding pen,STOCKYARD
+Hollow,VALLEY
+Homing beacon,BEACON
+Hook,"BAR, PENINSULA"
+Hooked spit,BAR
+Horizon lights,BEACON
+Horizontal control point,CONTROL POINT
+Horizontal control monument,CONTROL POINT
+Horn buoy,BUOY
+Hospital,BUILDING
+Hospital complex,BUILDING COMPLEX
+Hostel,BUILDING
+Hotel,BUILDING
+Hotspring,SPRING
+House,BUILDING
+Hovercraft station,BUILDING
+Hovercraft terminal,"PIER, WHARF"
+Hulk,WRECK
+Hummock,"MOUNT, ISLAND"
+Hut,BUILDING
+Hydro tower,TOWER
+Hydrofoil station,BUILDING
+Hydrofoil terminal,"PIER, WHARF"
+Ice buoy,BUOY
+Ice cap,ICE FIELD
+Ice cliff,CLIFF
+Ice peak,PEAK
+Ice sheet,ICE FIELD
+Identification beacon,BEACON
+Improved channel,"WATERCOURSE, LANE"
+Incline railway,RAILWAY
+Indian treaty line,BOUNDARY
+Inland sea,LAKE
+Inner harbor,HARBOR
+Inner lead,LANE
+Inshore,SHORE
+Interchange,INTERSECTION
+Intermittent light,BEACON
+Intermontane plateau,PLATEAU
+International boundary,BOUNDARY
+International date line,BOUNDARY
+Interprovincial boundary,BOUNDARY
+Island arc,ISLAND CLUSTER
+Island harbor,HARBOR
+Island ice,ICE FIELD
+Islet,ISLAND
+Jail,BUILDING
+Jetty,BREAKWATER
+Junction buoy,BUOY
+Jungle,WOODLAND
+Junk yard,DUMPING GROUND
+Kame,"MOUNT, RIDGE"
+Kame terrace,TERRACE
+Keg buoy,BUOY
+Kettle,BASIN
+Key,ISLAND
+Kill,WATERCOURSE
+Kilometer post,SIGN
+Knob,MOUNT
+Knoll,MOUNT
+Lagoon beach,BEACH
+Laguna,LAGOON
+Land grant line,BOUNDARY
+Landing,"LANDING PLACE, PIER, WHARF"
+Landing area,"AIRPORT, RUNWAY"
+Landing beacon,BEACON
+Landing field,RUNWAY
+Landing lane,"RUNWAY, LANE"
+Landing strip,RUNWAY
+Landmark beacon,BEACON
+Large automatic navigational buoy,BUOY
+Lateral moraine,MORAINE
+Launch pad,MISSILE SITE
+Lava cone,MOUNT
+Lawn bowling green,PARK
+Lead,LANE
+Leading light,BEACON
+Ledge,REEF
+Levee,EMBANKMENT
+Library,BUILDING
+Life saving station,"BUILDING, BUILDING COMPLEX"
+Lift bridge,BRIDGE
+Light,BEACON
+Light float,BUOY
+Light standard,POST
+Light station,BEACON
+Light vessel,BUOY
+Lighted beacon,BEACON
+Lighted buoy,BUOY
+Lighted sound buoy,BUOY
+Lighthouse,BEACON
+Lightship,BUOY
+Limits,BOUNDARY
+Liquid waste disposal area,DUMPING GROUND
+Locality,PLACE
+Lode,WATERCOURSE
+Logged area,CLEARING
+Long flashing light,BEACON
+Longshore bar,BAR
+Lookout tower,TOWER
+Loop antenna,ANTENNA
+Lumber camp,CAMPGROUND
+Maintenance road,ROAD
+Major fog signal,BEACON
+Major light,BEACON
+Mallee scrub,WOODLAND
+Mangrove swamp,"WETLAND, WOODLAND"
+Maquis,WOODLAND
+Marginal sea,SEA
+Marine automatic meteorlogical station,BUOY
+Marine bench,TERRACE
+Marine cliff,CLIFF
+Marine light,BEACON
+Marine radiobeacon,BEACON
+Marker beacon,BEACON
+Marker radiobeacon,BEACON
+Market garden,CROPLAND
+Marsh,WETLAND
+Marsh bar,BAR
+Mattress,REVETMENT
+Meadow,GRASSLAND
+Meander,WATERCOURSE
+Memorial park,PARK
+Mesa,PLATEAU
+Microwave tower,TOWER
+Mid channel buoy,BUOY
+Mile post,SIGN
+Mileage post,SIGN
+Military reserve,RESERVE
+Mill,"BUILDING, BUILDING COMPLEX"
+Millpond,LAKE
+Mine danger area,BOUNDARY
+Mineral pile,DUMPING GROUND
+Mineral spring,SPRING
+Minor fog signal,BEACON
+Minor light,BEACON
+Mire,WETLAND
+Mississippi River type buoy,BUOY
+Moat,"WATERCOURSE, VALLEY"
+Mole,BREAKWATER
+Monadnock,MOUNT
+Monastery,"BUILDING, BUILDING COMPLEX"
+Monorail,RAILWAY
+Monsoon forest,WOODLAND
+Monumented control point,CONTROL POINT
+Moor,"WOODLAND, WETLAND, GRASSLAND"
+Mooring buoy,"BUOY, MOORING"
+Mooring mast,"MOORING, POST"
+Mooring ring,MOORING
+Morass,WETLAND
+Mortlake,LAKE
+Mosque,BUILDING
+Motel,"BUILDING, BUILDING COMPLEX"
+Motte,WOODLAND
+Mound,MOUNT
+Mountain,MOUNT
+Mountain pass,GAP
+Mountain range,MOUNT RANGE
+Mulga,WOODLAND
+Mulga scrub,WOODLAND
+Multiple track railway,RAILWAY
+Municipal park,PARK
+Municipality,PLACE
+Museum,BUILDING
+Muskeg,WETLAND
+Narrows,WATERCOURSE
+National park,PARK
+Natural harbor,HARBOR
+Naval station,MILITARY BASE
+Navigation light,BEACON
+Neck,"ISTHMUS, PENINSULA"
+Neutral zone,DEMILITARIZED ZONE
+Non tidal basin,BASIN
+Notch,"GAP, CAVE"
+Nuclear accelerator,BUILDING
+Nuclear reactor,"BUILDING, BUILDING COMPLEX"
+Nullah,WATERCOURSE
+Nunatak,PEAK
+Nun buoy,BUOY
+Nursery,FARM
+Obsequent stream,WATERCOURSE
+Obelisk,MONUMENT
+Observation tower,TOWER
+Obstruction beacon,BEACON
+Obstruction marker,BEACON
+Obstruction light,BEACON
+Obstruction buoy,BUOY
+Occasional light,BEACON
+Occasional fog signal,BEACON
+Occulting light,BEACON
+Occulting quick flashing light,BEACON
+Ocean,SEA
+Office building,BUILDING
+Offshore bar,BAR
+Offshore light station,BEACON
+Offshore loading facility,PORT
+Offshore tower,BEACON
+Oil well,WELL
+Omnidirectional beacon,BEACON
+Open pit mine,MINE
+Open berth,HARBOR
+Open harbor,HARBOR
+Open roadstead,HARBOR
+Open sea,SEA
+Open sound,SEA
+Open water,"SEA, LAKE"
+Orchard,CROPLAND
+Outlet,MOUTH
+Outport,PORT
+Outwash,DELTA
+Outwash plain,"DELTA, PLAIN"
+Overflow channel,WATERCOURSE
+Overpass,BRIDGE
+Oxbow,LAKE
+Oyster bed,FISHING GROUND
+Pack ice,ICE FIELD
+Paddy field,CROPLAND
+Palisade,CLIFF
+Palsa bog,WETLAND
+Pampas,GRASSLAND
+Parish,PLACE
+Parking garage,BUILDING
+Parking lot,PARKING AREA
+Parkway,ROAD
+Parti colored buoy,BUOY
+Pass,"GAP, WATERCOURSE, LANE"
+Passage,"WATERCOURSE, LANE"
+Pasteuer lake,LAKE
+Pasture,"CROPLAND, GRASSLAND"
+Paternoster lake,LAKE
+Path,ROAD
+Peat bog,WETLAND
+Peat cutting,WETLAND
+Pedestrian crossing,INTERSECTION
+Pedestrian-bicycle overpass,BRIDGE
+Pedestrian underpass,TUNNEL
+Penitentiary,"BUILDING, BUILDING COMPLEX"
+Pens,WHARF
+Penstock,"UTILITY, WATERCOURSE"
+Perch,BEACON
+Photogrammetric horizontal control point,CONTROL POINT
+Picnic site,PARK
+Pile,POST
+Pile beacon,BEACON
+Pile dolphin,BEACON
+Pile lighthouse,BEACON
+Pillar,PINNACLE
+Pillar buoy,BUOY
+Pilot lightship,BUOY
+Pingo,MOUNT
+Pipe,UTILITY
+Pipeline,UTILITY
+Pit,"MINE, BASIN"
+Placer mine,MINE
+Planetarium,BUILDING
+Plant,"BUILDING, BUILDING COMPLEX"
+Plantation,CROPLAND
+Plantation field,CROPLAND
+Platform,OFFSHORE PLATFORM
+Playground,PARK
+Plaza,PARK
+Pocosin,WETLAND
+Point,"BAR, PENINSULA"
+Polar ice,ICE FIELD
+Polar ice pack,ICE FIELD
+Police station,"BUILDING, BUILDING COMPLEX"
+Pond,LAKE
+Pontoon bridge,BRIDGE
+Pool,LAKE
+Populated place,PLACE
+Post office,BUILDING
+Powder magazine,BUILDING
+Power line,UTILITY
+Power plant,BUILDING COMPLEX
+Power transmission line,UTILITY
+Power transmission pole,POST
+Power transmission pylon,TOWER
+Prairie,GRASSLAND
+Precipice,"CLIFF, PINNACLE"
+Primary tide station,"BUILDING, BUILDING COMPLEX"
+Prison,"BUILDING, BUILDING COMPLEX"
+Private road,ROAD
+Proglacial lake,LAKE
+Prohibited anchorage,HARBOR
+Prohibited area,RESTRICTED AREA
+Prohibited flying area,RESTRICTED AREA
+Promontory,PENINSULA
+Pumping station,"BUILDING, BUILDING COMPLEX"
+Pup,WATERCOURSE
+Puszta,GRASSLAND
+Pylon,TOWER
+Quagmire,WETLAND
+Quaking bog,WETLAND
+Quarantine anchorage,HARBOR
+Quarry,MINE
+Quay,WHARF
+Quick flashing light,BEACON
+Race,WATERCOURSE
+Racon,BEACON
+Radar beacon,BEACON
+Radar buoy,BUOY
+Radar responder beacon,BEACON
+Radar station,"BUILDING, BUILDING COMPLEX"
+Radio beacon monitor station,"BUILDING, BUILDING COMPLEX"
+Radio direction finder station,"BUILDING, BUILDING COMPLEX"
+Radio mast,TOWER
+Radio station,"BUILDING, BUILDING COMPLEX"
+Radio tower,TOWER
+Radiobeacon,BEACON
+Radiobeacon buoy,BUOY
+Railroad,RAILWAY
+Railroad crossing,INTERSECTION
+Railroad gantry,GANTRY
+Railroad passing,RAILWAY
+Railroad repair building,BUILDING
+Railroad storage building,BUILDING
+Railroad yard,RAILWAY YARD
+Railway tunnel,TUNNEL
+Railway turntable,TURNTABLE
+Raised beach,TERRACE
+Raised bog,WETLAND
+Ramp,"ROAD, LAUNCHING RAMP"
+Ranch,FARM
+Range,"GRASSLAND, LANE, MOUNT-RANGE, RIDGE, CROPLAND"
+Ranger station,"BUILDING, BUILDING COMPLEX"
+Ranging light,BEACON
+Ranging marker,BEACON
+Ravine,"VALLEY, WATERCOURSE"
+Re-entrant,VALLEY
+Reach,WATERCOURSE
+Rear light,BEACON
+Recreational vehicle area,"CAMPGROUND, PARKING AREA"
+Recurved spit,BAR
+Red sector,BEACON
+Red sector light,BEACON
+Reef flat,REEF
+Reference point location,CONTROL POINT
+Refinery,"BUILDING, BUILDING COMPLEX"
+Reforested area,WOODLAND
+Regional park,PARK
+Research center,BUILDING COMPLEX
+Reservation,"INDIAN RESERVATION, RESERVE"
+Reservation boundary line,BOUNDARY
+Reserve boundary line,BOUNDARY
+Reservoir,LAKE
+Responder beacon,BEACON
+Rest area,PARK
+Restricted waters,RESTRICTED AREA
+Retaining wall,WALL
+Ria,INLET
+Rift valley,VALLEY
+Rill,WATERCOURSE
+Rincon,INLET
+Rink,ICE RINK
+Rio,WATERCOURSE
+Riprap,REVETMENT
+Riprap mounds,REVETMENT
+Rise,MOUNT
+Rivage,"BEACH, COAST, SHORE"
+River,WATERCOURSE
+River bed,WATERCOURSE
+River buoy,BUOY
+Rivulet,WATERCOURSE
+Roadstead,HARBOR
+Rock glacier,ICE FIELD
+Rock terrace,TERRACE
+Rocket station,"BUILDING, BUILDING COMPLEX"
+Rotating beacon,BEACON
+Rotating loop-radiobeacon,BEACON
+Rotating light,BEACON
+Roundhouse,BUILDING
+Route marker,SIGN
+Ruins,PLACE
+Run,WATERCOURSE
+Runaway preventer,ROAD
+Runnel,"TROUGH, WATERCOURSE"
+Runway lights,"BEACON, RUNWAY"
+Runway radar reflector,RADAR REFLECTOR
+Sabkha,BASIN
+Saddle,GAP
+Safety fairway,LANE
+Sagebrush,WOODLAND
+Salina,"WETLAND, LAKE"
+Salt lake,LAKE
+Salt marsh,WETLAND
+Salting,WETLAND
+Sanctuary,PARK
+Sand bank,BAR
+Sand dune,"MOUNT, RIDGE"
+Sand hills,"MOUNT, RIDGE"
+Sand horn,BAR
+Sand lobe,BAR
+Sand pit,MINE
+Sand spit,BAR
+Sandbar,BAR
+Sanitarium,BUILDING
+Savanna,GRASSLAND
+Scar,"CLIFF, PINNACLE"
+Scarp,CLIFF
+Scaw,CLIFF
+School,"BUILDING, BUILDING COMPLEX"
+Science center,BUILDING
+Scrap yard,DUMPING GROUND
+Scrub,WOODLAND
+Sea beacon,BEACON
+Sea buoy,BUOY
+Sea coast,COAST
+Sea gate,"BREAKWATER, GATE"
+Seachannel,"VALLEY, WATERCOURSE"
+Seadrome,"AIRPORT, RUNWAY"
+Seaknoll,MOUNT
+Seamount,MOUNT
+Seamount chain,MOUNT RANGE
+Seamount group,MOUNT RANGE
+Seamount range,MOUNT RANGE
+Seapeak,PEAK
+Seaplane base,AIRPORT
+Seaplane landing/take off area,RUNWAY
+Seaport,"PORT, PLACE"
+Seashore,SHORE
+Seawall,"BREAKWATER, EMBANKMENT, WALL"
+Seaway,"WATERCOURSE, LANE"
+Secondary tide station,"BUILDING, BUILDING COMPLEX, TIDAL GAUGE"
+Section line,BOUNDARY
+Sectored light,BEACON
+Seep,SPRING
+Send,SWASH
+Service lane,"ROAD, LANE"
+Service street,ROAD
+Settlement,PLACE
+Sewage treatment plant,BUILDING COMPLEX
+Shelf ice,ICE FIELD
+Shelterbelt,HEDGE
+Shield volcano,MOUNT
+Ship canal,WATERCOURSE
+Shipping lane,LANE
+Shoal,BAR
+Shoal patches,BAR
+Shopping center,BUILDING COMPLEX
+Shore reef,REEF
+Shoreface,SHORE
+Short flashing light,BEACON
+Short long flashing light,BEACON
+Shrine,MONUMENT
+Shrub,WOODLAND
+Sidewalk,ROAD
+Siding,RAILWAY
+Sign post,SIGN
+Signal station,"BUILDING, BUILDING COMPLEX"
+Sill,"RIDGE, GAP"
+Silo,BUILDING
+Silva,WOODLAND
+Single track railway,RAILWAY
+Sink,BASIN
+Sinkhole,BASIN
+Ski lift,CABLEWAY
+Ski pylon,TOWER
+Slag heap,DUMPING GROUND
+Slash,WETLAND
+Slip,BERTH
+Slipway,LAUNCHING RAMP
+Slough,"WETLAND, WATERCOURSE"
+Slue,WETLAND
+Sluice,"WATERCOURSE, GATE"
+Sluice gate,GATE
+Smoke stack,CHIMNEY
+Snow shed,BUILDING
+Sonobuoy,BUOY
+Sound,"WATERCOURSE, LAKE, INLET"
+Sound barrier,"FENCE, WALL"
+Sound buoy,BUOY
+Sovereignty limit,BOUNDARY
+Spar buoy,BUOY
+Special purpose buoy,BUOY
+Special track railway,RAILWAY
+Spillway,WATERCOURSE
+Spit,BAR
+Spoil area,DUMPING GROUND
+Spoil banks,DUMPING GROUND
+Spoil ground,DUMPING GROUND
+Spoil ground buoy,BUOY
+Sports playing field,SPORTS FIELD
+Sports track,RACETRACK
+Spur,"RIDGE, RAILWAY, ROAD"
+Square,PARK
+Stable,BUILDING
+Stack,ISLAND
+Stake net,FISH TRAP
+Stakes,BEACON
+Stand,WOODLAND
+Standpipe,TANK
+Station,"BUILDING, BUILDING COMPLEX"
+Station buoy,BUOY
+Steel mill,"BUILDING, BUILDING COMPLEX"
+Steppe,GRASSLAND
+Stone mound monument,CONTROL POINT
+Storage bunker,BUILDING
+Storage tank,TANK
+Store,BUILDING
+Strait,WATERCOURSE
+Strand,SHORE
+Stranded wreck,WRECK
+Stranding harbor,HARBOR
+Strath,VALLEY
+Stream,WATERCOURSE
+Stream channel,WATERCOURSE
+Street,ROAD
+Streetcar line,RAILWAY
+String bog,WETLAND
+Strip mine,MINE
+Stump,SNAG
+Submarine isthmus,ISTHMUS
+Submarine cable,UTILITY
+Submerged reef,REEF
+Substation/transformer yard,"BUILDING, BUILDING COMPLEX"
+Subway,"RAILWAY, TUNNEL"
+Summit,PEAK
+Sunken rock,ROCK
+Sunken wreck,WRECK
+Super buoy,BUOY
+Supplementary aerodrome,AIRPORT
+Survey monument,CONTROL POINT
+Suspension bridge,BRIDGE
+Swale,TROUGH
+Swamp,WETLAND
+Swamp forest,WETLAND
+Swimming pool,LAKE
+Swing bridge,BRIDGE
+Swinging buoy,BUOY
+Synagogue,BUILDING
+Tableknoll,PLATEAU
+Tableland,PLATEAU
+Tablemount,PLATEAU
+Taiga,WOODLAND
+Tailing dump,DUMPING GROUND
+Tailing pile,DUMPING GROUND
+Taxi channel,RUNWAY
+Taxi channel light,BEACON
+Taxiway,RUNWAY
+Taxiway lights,"BEACON, RUNWAY"
+Telegraph buoy,BUOY
+Telegraph line,UTILITY
+Telegraph pole,POST
+Telegraph pylon,TOWER
+Telephone line,UTILITY
+Telephone pole,POST
+Telephone pylon,TOWER
+Television station,"BUILDING, BUILDING COMPLEX"
+Television tower,TOWER
+Temple,BUILDING
+Temporary anchorage,HARBOR
+Terminal,BUILDING
+Terminal moraine,MORAINE
+Territorial waters limit,BOUNDARY
+Texas tower,TOWER
+Theater,BUILDING
+Thermobuoy,BUOY
+Thicket,WOODLAND
+Thorn forest,WOODLAND
+Thorofare,"ROAD, WATERCOURSE"
+Thoroughfare,"ROAD, WATERCOURSE"
+Threshold light,BEACON
+Throughfare,"ROAD, WATERCOURSE"
+Thruway,ROAD
+Tidal basin,BASIN
+Tidal flat,FLAT
+Tidal harbor,HARBOR
+Tidal light,BEACON
+Tidal marsh,WETLAND
+Tidal quay,WHARF
+Tide gate,GATE
+Tide limit,BOUNDARY
+Tide lock,LOCK
+Tide signal,BEACON
+Tide rips,OVERFALLS
+Tide station,"BUILDING, BUILDING COMPLEX"
+Tideway,WATERCOURSE
+Timber line,BOUNDARY
+Toll gate,GATE
+Tollroad,ROAD
+Tombolo,"BAR, ISLAND"
+Tongue,"BAR, PENINSULA"
+Topmark buoy,BUOY
+Torrent,WATERCOURSE
+Tourist cabin,BUILDING
+Tourist lodge,BUILDING
+Town,PLACE
+Town hall,BUILDING
+Town limits,BOUNDARY
+Track,"RAILWAY, ROAD"
+Traffic circle,INTERSECTION
+Traffic sign,SIGN
+Trail,ROAD
+Trailer,MOBILE HOME
+Trailer park,MOBILE HOME PARK
+Training wall,BREAKWATER
+Tramway,CABLEWAY
+Transformer station,"BUILDING, BUILDING COMPLEX"
+Transmission line,UTILITY
+Transmitter station,"BUILDING, BUILDING COMPLEX"
+Transobuoy,BUOY
+Transponder beacon,BEACON
+Transverse bar,BAR
+Tree line,BOUNDARY
+Trench,"VALLEY, TROUGH"
+Trestle,BRIDGE
+Triangulation station,CONTROL POINT
+Tributary,WATERCOURSE
+Tropical rain forest,WOODLAND
+Truck farm,CROPLAND
+Truck garden,CROPLAND
+Trumpet buoy,BUOY
+Trunk buoy,BUOY
+Tulelands,WETLAND
+Tunny nets,FISH TRAP
+Turning buoy,BUOY
+Turnpike,ROAD
+Unattended light,BEACON
+Underpass,TUNNEL
+Undulating light,BEACON
+University,BUILDING COMPLEX
+Unwatched light,BEACON
+Urban area,PLACE
+Utilidor,UTILITY
+Veld,GRASSLAND
+Vertical control point,CONTROL POINT
+Vertical control monument,CONTROL POINT
+Viaduct,BRIDGE
+Village,PLACE
+Vineyard,CROPLAND
+Volcano,MOUNT
+Volcanic dike,RIDGE
+Wadi,WATERCOURSE
+Walk,ROAD
+Warehouse,BUILDING
+Warning beacon,BEACON
+Warning light,BEACON
+Warning radiobeacon,BEACON
+Warping buoy,BUOY
+Wash,WATERCOURSE
+Watched light,BEACON
+Water gap,"VALLEY, WATERCOURSE"
+Water hole,WELL
+Water intake tower,TOWER
+Water lane,"RUNWAY, LANE"
+Water tower,TOWER
+Waterway,LANE
+Wave basin,"BREAKWATER, BASIN"
+Wave trap,BREAKWATER
+Way,"LANE, ROAD"
+Way point,CONTROL POINT
+Wayside park,PARK
+Weak light,BEACON
+Weir,"FISH TRAP, DAM"
+Weir jetty,BREAKWATER
+Wetdock,BERTH
+Whistle buoy,BUOY
+Winged headland,PENINSULA
+Winter buoy,BUOY
+Winter light,BEACON
+Winter marker,BEACON
+Winter road,ROAD
+Wood,WOODLAND
+Wooded area,WOODLAND
+Woods,WOODLAND
+Wreck buoy,BUOY
+Wrecking yard,DUMPING GROUND
+Zoo,PARK
