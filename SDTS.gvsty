@@ -1,0 +1,12 @@
+#
+# style for Katalog entries
+#
+
+\style cat:@SDTSEntityTypes.csv extends cat:
+    ~shape=plaintext
+        ~label=\
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0"> \
+  <TR><TD>@P:ent@</TD></TR> \
+  <TR><TD><FONT POINT-SIZE="8"><I>@P:desc@ </I></FONT></TD></TR> \
+</TABLE>
+\style

@@ -1,0 +1,201 @@
+ent,desc
+AIRPORT,"A facility, either on land or water, where aircraft can take off and land; usually consists of hard-surfaced landing strips, a control tower, hangars, and accommodations for passengers and cargo."
+ALLUVIUM,All unconsolidated fragmental material laid down by a stream.
+AMMUNITION_DUMP,A military installation used for the storage of explosives and other warlike stores.
+ANTENNA,A metallic apparatus for sending and receiving electro-magnetic waves.
+ANTENNA_ARRAY,A group of directional antennas.
+APPROACHWAY,The airspace through which aircraft approach or leave a landing area.
+ARCH,A curved structure that supports the weight of material over an open space.
+BACKWATER,An area of calm water unaffected by the current of a stream.
+BAR,"A submerged or emerged mound, ridge, or succession of ridges of sand or other material extending across the bottom, and which may obstruct navigation."
+BASIN,Any bowl-shaped depression in the surface of the land or ocean floor.
+BEACH,"The gently sloping shore which is washed by waves or tides, especially the parts covered by sand or pebbles."
+BEACON,"A fixed signal, mark, or light and associated facilities erected for the guidance of mariners or airplane pilots."
+BERTH,The place where a ship lies when at anchor secured to a pier or wharf.
+BOTTOM,The portion of the ground surface which lies below water.
+BOUNDARY,A nonphysical line indicating the limit or extent of an area or territory.
+BREAKERS,A zone or region of waves breaking into foam as they advance toward the shore.
+BREAKWATER,"A structure built to break the force of waves so as to protect a beach, harbor, or other waterfront facility."
+BRIDGE,A structure erected over a depression or obstacle to carry traffic or some facility such as a pipeline.
+BRIDGE_SUPERSTRUCTURE,Those elements of the bridge structure which are above the uppermost deck.
+BUILDING,A permanent walled and roofed construction.
+BUILDING_COMPLEX,A group of buildings and associated facilities functioning together as a unit.
+BUOY,A float moored or anchored in water.
+CABLEWAY,A conveyor system in which carrier units run on wire cables string between supports.
+CAMPGROUND,"The ground or area on which tents, huts, etc., are erected for temporary shelter."
+CAPE,"A relatively extensive land area jutting into a water body, which prominently marks a change in or interrupts notably the coastal trend of that water body."
+CATCHMENT,"An area drained by a single watercourse; a natural drainage area which may coincide with a river basin, in which the divides direct the water from the rainfall and percolation into a river. However, where underground flow is involved, the catchment may be larger or smaller than that that may be apparent from the surface relief."
+CAVE,"Naturally formed, subterranean open area or chamber."
+CEMETERY,A place for burying the dead.
+CHIMNEY,A structure containing a passage or flue for discharging smoke and gases from combustion.
+CIRQUE,A deep natural hollow near the crest of a mountain.
+CLEARING,An open area in a forest.
+CLIFF,"A high, steep, or overhanging face of rock."
+COAST,The general region of indefinite width that extends from the sea inland to the first major change in terrain features.
+CONTINENT,"One of the large, unbroken masses of land into which the Earth's surface is divided."
+CONTROL_POINT,A point of known location.
+CRATER,Circular-shaped depression at the summit of a volcanic cone or on the surface of the land.
+CREVASSE,A deep fissure in snow or ice.
+CRIB,"A crate-like construction of logs or beams, usually filled with stones, placed in water as a free standing mooring device or as the foundation of a pier or wharf."
+CROPLAND,Land that has been plowed or otherwise cultivated.
+CUT,"An excavation of the Earth's surface to provide passage for a road, railway, canal, etc."
+DAM,A barrier constructed across a watercourse to control the flow or raise the level of water.
+DELTA,"A tract of alluvium formed at the mouth of a river where the deposition of some of its load exceeds its rate of removal, crossed by the divergent channels (distributaries) of the river."
+DEMILITARIZED_ZONE,An area in which military activity is prohibited.
+DESERT,"A region rendered barren or partially barren by environmental extremes, especially by low rainfall."
+DRY_DOCK,An artificial basin fitted with gate or caisson into which a vessel may be floated and from which the water may be pumped out to expose the bottom of the vessel.
+DUMPING_GROUND,Area designated for dumping various types of materials.
+EARTH_SURFACE,The outermost surface of the land and waters of the planet.
+EMBANKMENT,"A raised structure of earth, ground, etc."
+EXHIBITION_GROUND,"A public area containing buildings, paddocks, etc., for the display of livestock, agricultural produce, machinery, etc."
+FARM,"A tract of crop or grazing land, as well as the group of buildings with and often surrounding a farmhouse, including barns, sheds, and other outbuildings, used for agricultural production."
+FAULT,A fracture in the Earth's crust with displacement on one side of the fracture relative to the other.
+FENCE,"An enclosure or barrier made of wire, rails, slats or other relatively light material, as opposed to a wall which is of stone or other heavy material."
+FILTRATION_BEDS,An area containing layers of material used to filter or aerate water.
+FISH_HATCHERY,A facility used for the spawning of fish which are subsequently used to stock lakes and streams.
+FISH_LADDER,"A facility consisting of a series of small pools each one slightly higher than the preceding, built around a dam to enable fish to make their way upstream."
+FISH_TRAP,A device used to catch fish.
+FISHING_GROUND,A water area in which fishing is frequently carried on.
+FLAT,"A level tract lying at a small depth below the surface of water, or alternately covered and left bare by the tide."
+FLOOD_PLAIN,An area which is subject to periodic flooding.
+FORD,The shallow part of a river which can be easily crossed.
+FORT,A fortified place or position.
+FUMAROLE,A hole in the Earth's crust from which steam and gases are emitted.
+GANTRY,A frame structure raised on side supports so as to span over or around something.
+GAP,Low point or opening between hills or mountains or in a ridge or mountain range.
+GATE,"A structure that may be swung, drawn, or lowered to block an entrance or passageway."
+GEYSER,An intermittent fountain of hot water ejected with force from a hole in the Earth's crust.
+GOLF_COURSE,An area set out for the playing of golf.
+GRANDSTAND,A usually roofed structure for viewing events and having tiers of seats for spectators.
+GRASSLAND,An uncultivated area of grass or grass-like vegetation.
+GRAVE,A place within a graveyard used for burial.
+GROUND,The solid portion of the Earth up to and including the ground surface.
+GROUND_SURFACE,"The land surface of the Earth, both exposed and underwater."
+GUARD_RAIL,"A strong fence or barrier to prevent vehicles from leaving the roadway, or for people's safety."
+HARBOR,"An area of water where ships, planes or other watercraft can anchor or dock. Also spelled HARBOUR."
+HEADWATERS,"The upper part of a river system, denoting the upper basin and source streams of a river."
+HEDGE,A dense growth of shrubbery planted as a fence or boundary.
+HELIPAD,A transportation structure used for the landing of helicopters.
+HOPPER,A top loading funnel-shaped structure for temporary storage of loose materials which will be dispensed from its bottom.
+ICE_FIELD,Large area of permanent sea or land ice.
+ICE_RINK,A surface of ice for ice skating.
+ICEBERG,A large mass of detached land ice in the sea or stranded in shallow water.
+INDIAN_RESERVATION,An area set aside for the use of an indian tribe or tribes.
+INLET,"An opening of the sea into the land, or of a lake into its shore."
+INSHORE_TRAFFIC_ZONE,"A designated area between the landward boundary of a traffic separation scheme and the adjacent coast, intended for local traffic."
+INTERSECTION,The junction of roads or tracks.
+IRRIGATION_SYSTEM,A system designed to supply land with water.
+ISLAND,Area of dry or relatively dry land surrounded by water or low wetland.
+ISLAND_CLUSTER,A group of islands.
+ISTHMUS,Narrow section of land in a body of water connecting two larger land areas.
+LAGOON,"A sheet of salt water separated from the open sea by sand or shingle banks. The sheet of water between an offshore reef, esp. of coral and mainland. The sheet of water within a ring or horseshoe shaped atoll."
+LAKE,Any standard body of inland water.
+LANDING_PLACE,A place for loading and unloading passengers or cargo to and from water vessels.
+LANE,"A prescribed course for ships or aircraft, or a strip delineated on a road to accommodate a single line of automobiles; not to be confused with the road itself."
+LAUNCHING_RAMP,A transportation structure used for launching boats.
+LOCK,An enclosure in a water body with gates at each end to raise or lower vessels as they pass from one level to another.
+MARINA,"A harbor facility for recreational craft where supplies, repairs, and various services are available."
+MILITARY_BASE,An area owned and operated by the government in which various military activities take place.
+MILITARY_BUNKER,"A military strong point, usually part of an extensive fortification."
+MINE,An excavation in the Earth for the purpose of extracting earth materials.
+MINE_FIELD,An area where explosive mines have been anchored or sunk in water or buried on land.
+MISSILE_SITE,An area for housing and launching guided missiles.
+MOBILE_HOME,A trailer that is a permanent dwelling and is designed without a permanent foundation.
+MOBILE_HOME_PARK,An area maintained for the parking of inhabited mobile homes.
+MONUMENT,A structure erected as a memorial.
+MOORING,"The place where a craft may be secured to the ground, wharf, pier, post, or buoy."
+MORAINE,"An accumulation of boulders, stones, or other debris carried and deposited by a glacier."
+MOUNT,A mountain or hill.
+MOUNT_RANGE,A series of connected and aligned mountains or mountain ridges.
+MOUTH,"The exit or point of discharge of a stream into another stream, lake or sea."
+OASIS,"A small, isolated, fertile or green area in a desert region, usually having a spring or well."
+OFF_ROAD_VEHICULAR_AREA,"An area for the testing of, or use by, vehicles that are designed to travel across the terrain."
+OFFSHORE_PLATFORM,A raised surface located in a sea.
+OIL_FIELD,An area where petroleum is or was removed from the Earth.
+OUTDOOR_THEATER,"An outdoor area consisting of a stage or other focal point, and an area where the audience can be seated."
+OVERFALLS,Short breaking waves occurring when a current passes over a shoal or other submarine obstruction or meets a contrary current or wind.
+OVERRUN/STOPWAY,An area beyond the take-off runway able to support an airplane during an aborted take-off.
+PARK,A place or area set aside for recreation or preservation of a cultural or natural resource.
+PARKING_AREA,An area set aside for the parking of motor vehicles.
+PEAK,The summit of a mountain.
+PENINSULA,A body of land jutting out into and nearly surrounded by water.
+PIER,"A structure built out into the water, usually with its greatest dimension at right angles to the shore, forming a landing place or a place alongside which vessels can lie."
+PILING,"A set of posts forced into the earth to serve as a support, as for a pier, or to resist lateral pressure."
+PILOT_WATERS,Areas in which the services of a marine pilot are essential.
+PINNACLE,"A tall, slender, spire-shaped rock projecting from a level or more gently sloping surface."
+PLACE,An area with definite or indefinite boundaries.
+PLAIN,"A region of general uniform slope, comparatively level, and of considerable extent."
+PLATEAU,An elevated and comparatively level expanse of land.
+PLUNGE_POOL,"A hollow eroded by the force of the falling water at the base of a waterfall, particularly by the eddying effect."
+POLYNA,"Any enclosed water area in pack ice other than a lead, not large enough to be called open water. When frozen over, a polyna becomes an ice skylight from the point of view of the submariner. Also called BIG CLEARING, CLEARING, GLADE, ICE CLEARING, POOL, REGIONAL CLEARING."
+PORT,"A landing place provided with terminal and transfer facilities for loading and discharging cargo or passengers, usually located in a harbor."
+POST,"A long relatively slender, and generally round piece of wood or other material."
+PUMP_OUT_FACILITY,A holding place where ship's bilges and cargo are pumped.
+PYRAMID,An ancient structure having a broad base with sides narrowing towards the top.
+QUICKSAND,"A bed of loose sand mixed with water forming a soft, shifting mass that yields easily to pressure."
+RACETRACK,A course laid out for racing.
+RADAR_DOME,A dome shaped structure used to protect the antenna of a radar installation.
+RADAR_REFLECTOR,A device capable of or intended for reflecting radar signals.
+RAILWAY,A permanent way having one or more rails which provides a track for cars.
+RAILWAY_YARD,"An area provided with a system of tracks where railroad trains are made up and cars are switched, stored, or serviced."
+RAPIDS,"An area of broken, fast flowing water in a stream, where the slope of the bed increases (but without a prominent break of slope which might result in a waterfall), or where a gently dipping bar of harder rock outcrops."
+REEF,"A ridge of rocks, lying near the surface of the sea, which may be visible at low tide, but is usually covered by water."
+REFUELING_TRACK,Airspace designated for conducting aerial refueling.
+RESERVE,A tract of land set aside for a specific use.
+RESTRICTED_AREA,"An area of air, land, or water in which travel or other activities are subject to specified conditions or constraints."
+REVETMENT,"A facing, other than a wall, of stone, concrete, wood, etc., built to sustain an embankment."
+RIDGE,A long and narrow upland with steep sides.
+RIDGE_LINE,The line separating drainage basins.
+RIG,Vertical structure fitted for drilling or lifting operations.
+ROAD,"An open way for the passage of vehicles, persons, or animals on land."
+ROCK,"An isolated rocky formation or a single large stone, usually one constituting a danger to navigation. It may be always submerged, always uncovered, or alternately covered and uncovered by the tide."
+ROUNDABOUT,Area of water subject to a routing measure restricting ship movement to a counter-clockwise direction.
+RUNWAY,"A straight path used for landing, taxiing, and take-off of aircraft."
+SALT_PAN,An area of salt deposits.
+SEA,The great body of salt water of the oceans.
+SHAFT,A long narrow passage sunk in the earth.
+SHINGLE,A collection of loose pebbles on the shore of the sea or a lake.
+SHIPYARD,A yard or area where ships are built or repaired.
+SHORE,That part of the land in immediate contact with a body of water including the area between high and low water lines.
+SHORELINE,The line of contact between a body of water and the land.
+SIGN,A roadway associated feature which provides information to people passing.
+SKI_AREA,An area used for skiing.
+SKI_JUMP,A ramp used for ski jumping.
+SNAG,A stem or trunk of a tree above or below the surface of the water.
+SNOWFIELD,A region of permanent snow in mountainous areas or high latitudes.
+SOLAR_PANEL,A unit of solar cells for converting sunlight into electrical energy or heat.
+SPORTS_FIELD,A field on which sporting activities are carried out.
+SPRING,The place where water issues from the ground naturally.
+STADIUM,Large often unroofed structure in which athletic events are held.
+STOCKYARD,An enclosed area in which livestock are temporarily kept.
+SWASH,The mass of broken foaming water which rushes bodily up a beach as a wave breaks. Synonymous with SEND.
+TALUS,Slopes of broken rock debris on a mountainside.
+TANK,A structure used for the storage of fluids.
+TENNIS_COURT,A recreational area used for playing tennis.
+TERRACE,"A step-like feature between higher and lower ground: a relatively flat or gently inclined shelf of earth, backed and fronted by steep slopes or man-made retaining walls."
+TIDAL_GAUGE,An instrument for measuring the height of the tide.
+TIME_ZONE,A geographic region within which the same standard time is used.
+TOWER,"A tall framework or structure, the elevation of which is functional."
+TRAFFIC_SEPARATION_SCHEME_AREA,Area of water with lanes designated to separate opposing streams of vessel traffic.
+TREE,"A woody perennial plant, having a self-supporting main stem or trunk."
+TROUGH,A long depression of the sea floor.
+TUNDRA,"A treeless area poleward or upward of the tree line of arctic or alpine regions, having a permanently frozen subsoil and supporting low-growing vegetation such as lichens, mosses, and stunted shrubs."
+TUNNEL,An underground or underwater passage.
+TURNING_BASIN,A water area used for turning vessels.
+TURNTABLE,"A circular horizontal rotating platform equipped with a railway track, used for turning locomotives, as in a roundhouse."
+UTILITY,"A linear distribution system consisting of pipelines, high tension wires, cables, etc., providing a public service and usually subject to government regulations."
+VALLEY,"A long, narrow depression in the Earth's surface, usually with a fairly regular downslope."
+WALL,"An upright structure of masonry, wood, plaster, or other building material serving to enclose, divide, or protect an area."
+WATERCOURSE,A way or course through which water may or does flow.
+WATERFALL,A sudden descent of water over a step or ledge in the bed of a river.
+WATER_SURFACE,"The water portion of the Earth's surface, including the surface of sea and inland waters."
+WATERING_PLACE,A place other than a spring or well where vessels and vehicles replenish their water supply.
+WELL,"A pit or hole dug or bored into the earth, for the extraction of oil, water, other fluids or gases."
+WETLAND,A vegetated area that is inundated or saturated by surface or groundwater.
+WHARF,A structure extending parallel to the shoreline so that vessels may lie close alongside to receive and discharge cargo.
+WIND_INDICATOR,A visual device used to provide wind information.
+WINDBREAK,"A shelter, either natural (e.g., a line of trees or a thick hedge) or artificial (a screen), which breaks or interrupts the force of the wind."
+WINDMILL,A mill or other machine that runs on the energy generated by a wheel of adjustable blades or flats rotated by the wind.
+WOODLAND,"Land having a cover of trees, shrubs, or both."
+WRECK,"A wrecked vessel, either submerged or visible, which is attached to or foul of the bottom or cast up on the shore."
+ZONE_OF_OCCUPATION,"An area, usually temporary, held and controlled by a foreign military force."

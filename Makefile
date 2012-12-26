@@ -2,7 +2,7 @@
 # Converts SOFT files into PDF diagrams via graphviz
 #
 
-all: RFK-hydrography.pdf RFK-elevation.pdf TMOI-hydrography.pdf TMOI-elevation.pdf
+all: RFK-hydrography.pdf RFK-elevation.pdf TMOI-hydrography.pdf TMOI-elevation.pdf SDTS.pdf
 
 .PRECIOUS: RFK-%.gv TMOI-%.gv
 
@@ -25,6 +25,9 @@ RFK-%.gv: RFK-%.soft
 
 TMOI-%.gv: TMOI-%.soft
 	soft2gv.pl --noorphans --tuples=TMOI.csv --styles=TMOI.gvsty $< > $@
+
+SDTS.gv: SDTS.soft
+	soft2gv.pl --noorphans --tuples=SDTSEntityTypes.csv --styles=SDTS.gvsty $< > $@
 
 %.pdf: %.gv
 	dot -Tpdf -o $@ $<
