@@ -1,0 +1,64 @@
+/* This file was auto-generated on Thu Dec 27 21:44:51 2012
+   using SOFT.pm library version 0.5.  Command line:
+/usr/local/bin/soft2gv.pl --only cat:SDTS_entity,@SDTS-hydrography.list --noorphans --tuples=SDTSEntityTypes.csv --styles=SDTS.gvsty SDTS.soft
+*/
+digraph G {
+	rankdir=BT
+	/* subgraphs */
+	/* node attributes */
+	"cat:ALLUVIUM" [weight="5",label=< <TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0">  <TR><TD>ALLUVIUM</TD></TR>  <TR><TD><FONT POINT-SIZE="8"><I>All unconsolidated fragmental<BR/>material laid down by a<BR/>stream. </I></FONT></TD></TR>  </TABLE>>,shape="plaintext"];
+	"cat:BACKWATER" [weight="5",label=< <TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0">  <TR><TD>BACKWATER</TD></TR>  <TR><TD><FONT POINT-SIZE="8"><I>An area of calm water<BR/>unaffected by the current of<BR/>a stream. </I></FONT></TD></TR>  </TABLE>>,shape="plaintext"];
+	"cat:BOUNDARY" [weight="5",label=< <TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0">  <TR><TD>BOUNDARY</TD></TR>  <TR><TD><FONT POINT-SIZE="8"><I>A nonphysical line indicating<BR/>the limit or extent of an<BR/>area or territory. </I></FONT></TD></TR>  </TABLE>>,shape="plaintext"];
+	"cat:BREAKERS" [weight="5",label=< <TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0">  <TR><TD>BREAKERS</TD></TR>  <TR><TD><FONT POINT-SIZE="8"><I>A zone or region of waves<BR/>breaking into foam as they<BR/>advance toward the shore. </I></FONT></TD></TR>  </TABLE>>,shape="plaintext"];
+	"cat:CATCHMENT" [weight="5",label=< <TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0">  <TR><TD>CATCHMENT</TD></TR>  <TR><TD><FONT POINT-SIZE="8"><I>An area drained by a single<BR/>watercourse; a natural<BR/>drainage area which may<BR/>coincide with a river basin,<BR/>in which the divides direct<BR/>the water from the rainfall<BR/>and percolation into a river.<BR/>However, where underground<BR/>flow is involved, the<BR/>catchment may be larger or<BR/>smaller than that that may be<BR/>apparent from the surface<BR/>relief. </I></FONT></TD></TR>  </TABLE>>,shape="plaintext"];
+	"cat:CAVE" [weight="5",label=< <TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0">  <TR><TD>CAVE</TD></TR>  <TR><TD><FONT POINT-SIZE="8"><I>Naturally formed,<BR/>subterranean open area or<BR/>chamber. </I></FONT></TD></TR>  </TABLE>>,shape="plaintext"];
+	"cat:COAST" [weight="5",label=< <TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0">  <TR><TD>COAST</TD></TR>  <TR><TD><FONT POINT-SIZE="8"><I>The general region of<BR/>indefinite width that extends<BR/>from the sea inland to the<BR/>first major change in terrain<BR/>features. </I></FONT></TD></TR>  </TABLE>>,shape="plaintext"];
+	"cat:CREVASSE" [weight="5",label=< <TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0">  <TR><TD>CREVASSE</TD></TR>  <TR><TD><FONT POINT-SIZE="8"><I>A deep fissure in snow or<BR/>ice. </I></FONT></TD></TR>  </TABLE>>,shape="plaintext"];
+	"cat:DELTA" [weight="5",label=< <TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0">  <TR><TD>DELTA</TD></TR>  <TR><TD><FONT POINT-SIZE="8"><I>A tract of alluvium formed at<BR/>the mouth of a river where<BR/>the deposition of some of its<BR/>load exceeds its rate of<BR/>removal, crossed by the<BR/>divergent channels<BR/>(distributaries) of the<BR/>river. </I></FONT></TD></TR>  </TABLE>>,shape="plaintext"];
+	"cat:FAULT" [weight="5",label=< <TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0">  <TR><TD>FAULT</TD></TR>  <TR><TD><FONT POINT-SIZE="8"><I>A fracture in the Earth&#39;s<BR/>crust with displacement on<BR/>one side of the fracture<BR/>relative to the other. </I></FONT></TD></TR>  </TABLE>>,shape="plaintext"];
+	"cat:FORD" [weight="5",label=< <TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0">  <TR><TD>FORD</TD></TR>  <TR><TD><FONT POINT-SIZE="8"><I>The shallow part of a river<BR/>which can be easily crossed. </I></FONT></TD></TR>  </TABLE>>,shape="plaintext"];
+	"cat:HEADWATERS" [weight="5",label=< <TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0">  <TR><TD>HEADWATERS</TD></TR>  <TR><TD><FONT POINT-SIZE="8"><I>The upper part of a river<BR/>system, denoting the upper<BR/>basin and source streams of a<BR/>river. </I></FONT></TD></TR>  </TABLE>>,shape="plaintext"];
+	"cat:INLET" [weight="5",label=< <TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0">  <TR><TD>INLET</TD></TR>  <TR><TD><FONT POINT-SIZE="8"><I>An opening of the sea into<BR/>the land, or of a lake into<BR/>its shore. </I></FONT></TD></TR>  </TABLE>>,shape="plaintext"];
+	"cat:LAGOON" [weight="5",label=< <TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0">  <TR><TD>LAGOON</TD></TR>  <TR><TD><FONT POINT-SIZE="8"><I>A sheet of salt water<BR/>separated from the open sea<BR/>by sand or shingle banks. The<BR/>sheet of water between an<BR/>offshore reef, esp. of coral<BR/>and mainland. The sheet of<BR/>water within a ring or<BR/>horseshoe shaped atoll. </I></FONT></TD></TR>  </TABLE>>,shape="plaintext"];
+	"cat:LAKE" [weight="5",label=< <TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0">  <TR><TD>LAKE</TD></TR>  <TR><TD><FONT POINT-SIZE="8"><I>Any standard body of inland<BR/>water. </I></FONT></TD></TR>  </TABLE>>,shape="plaintext"];
+	"cat:MORAINE" [weight="5",label=< <TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0">  <TR><TD>MORAINE</TD></TR>  <TR><TD><FONT POINT-SIZE="8"><I>An accumulation of boulders,<BR/>stones, or other debris<BR/>carried and deposited by a<BR/>glacier. </I></FONT></TD></TR>  </TABLE>>,shape="plaintext"];
+	"cat:MOUTH" [weight="5",label=< <TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0">  <TR><TD>MOUTH</TD></TR>  <TR><TD><FONT POINT-SIZE="8"><I>The exit or point of<BR/>discharge of a stream into<BR/>another stream, lake or sea. </I></FONT></TD></TR>  </TABLE>>,shape="plaintext"];
+	"cat:PLUNGE_POOL" [weight="5",label=< <TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0">  <TR><TD>PLUNGE_POOL</TD></TR>  <TR><TD><FONT POINT-SIZE="8"><I>A hollow eroded by the force<BR/>of the falling water at the<BR/>base of a waterfall,<BR/>particularly by the eddying<BR/>effect. </I></FONT></TD></TR>  </TABLE>>,shape="plaintext"];
+	"cat:QUICKSAND" [weight="5",label=< <TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0">  <TR><TD>QUICKSAND</TD></TR>  <TR><TD><FONT POINT-SIZE="8"><I>A bed of loose sand mixed<BR/>with water forming a soft,<BR/>shifting mass that yields<BR/>easily to pressure. </I></FONT></TD></TR>  </TABLE>>,shape="plaintext"];
+	"cat:RAPIDS" [weight="5",label=< <TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0">  <TR><TD>RAPIDS</TD></TR>  <TR><TD><FONT POINT-SIZE="8"><I>An area of broken, fast<BR/>flowing water in a stream,<BR/>where the slope of the bed<BR/>increases (but without a<BR/>prominent break of slope<BR/>which might result in a<BR/>waterfall), or where a gently<BR/>dipping bar of harder rock<BR/>outcrops. </I></FONT></TD></TR>  </TABLE>>,shape="plaintext"];
+	"cat:SDTS_entity" [weight="5",shape="box",label="SDTS\nentity"];
+	"cat:SEA" [weight="5",label=< <TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0">  <TR><TD>SEA</TD></TR>  <TR><TD><FONT POINT-SIZE="8"><I>The great body of salt water<BR/>of the oceans. </I></FONT></TD></TR>  </TABLE>>,shape="plaintext"];
+	"cat:SHINGLE" [weight="5",label=< <TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0">  <TR><TD>SHINGLE</TD></TR>  <TR><TD><FONT POINT-SIZE="8"><I>A collection of loose pebbles<BR/>on the shore of the sea or a<BR/>lake. </I></FONT></TD></TR>  </TABLE>>,shape="plaintext"];
+	"cat:TURNING_BASIN" [weight="5",label=< <TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0">  <TR><TD>TURNING_BASIN</TD></TR>  <TR><TD><FONT POINT-SIZE="8"><I>A water area used for turning<BR/>vessels. </I></FONT></TD></TR>  </TABLE>>,shape="plaintext"];
+	"cat:WATERCOURSE" [weight="5",label=< <TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0">  <TR><TD>WATERCOURSE</TD></TR>  <TR><TD><FONT POINT-SIZE="8"><I>A way or course through which<BR/>water may or does flow. </I></FONT></TD></TR>  </TABLE>>,shape="plaintext"];
+	"cat:WATERFALL" [weight="5",label=< <TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0">  <TR><TD>WATERFALL</TD></TR>  <TR><TD><FONT POINT-SIZE="8"><I>A sudden descent of water<BR/>over a step or ledge in the<BR/>bed of a river. </I></FONT></TD></TR>  </TABLE>>,shape="plaintext"];
+	"cat:WETLAND" [weight="5",label=< <TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0">  <TR><TD>WETLAND</TD></TR>  <TR><TD><FONT POINT-SIZE="8"><I>A vegetated area that is<BR/>inundated or saturated by<BR/>surface or groundwater. </I></FONT></TD></TR>  </TABLE>>,shape="plaintext"];
+
+	/* relations with attributes */
+	"cat:ALLUVIUM" -> "cat:SDTS_entity" [style="solid",arrowhead="empty"];
+	"cat:BACKWATER" -> "cat:SDTS_entity" [style="solid",arrowhead="empty"];
+	"cat:BOUNDARY" -> "cat:SDTS_entity" [style="solid",arrowhead="empty"];
+	"cat:BREAKERS" -> "cat:SDTS_entity" [style="solid",arrowhead="empty"];
+	"cat:CATCHMENT" -> "cat:SDTS_entity" [style="solid",arrowhead="empty"];
+	"cat:CAVE" -> "cat:SDTS_entity" [style="solid",arrowhead="empty"];
+	"cat:COAST" -> "cat:SDTS_entity" [style="solid",arrowhead="empty"];
+	"cat:CREVASSE" -> "cat:SDTS_entity" [style="solid",arrowhead="empty"];
+	"cat:DELTA" -> "cat:SDTS_entity" [style="solid",arrowhead="empty"];
+	"cat:FAULT" -> "cat:SDTS_entity" [style="solid",arrowhead="empty"];
+	"cat:FORD" -> "cat:SDTS_entity" [style="solid",arrowhead="empty"];
+	"cat:HEADWATERS" -> "cat:SDTS_entity" [style="solid",arrowhead="empty"];
+	"cat:INLET" -> "cat:SDTS_entity" [style="solid",arrowhead="empty"];
+	"cat:LAGOON" -> "cat:SDTS_entity" [style="solid",arrowhead="empty"];
+	"cat:LAKE" -> "cat:SDTS_entity" [style="solid",arrowhead="empty"];
+	"cat:MORAINE" -> "cat:SDTS_entity" [style="solid",arrowhead="empty"];
+	"cat:MOUTH" -> "cat:SDTS_entity" [style="solid",arrowhead="empty"];
+	"cat:PLUNGE_POOL" -> "cat:SDTS_entity" [style="solid",arrowhead="empty"];
+	"cat:QUICKSAND" -> "cat:SDTS_entity" [style="solid",arrowhead="empty"];
+	"cat:RAPIDS" -> "cat:SDTS_entity" [style="solid",arrowhead="empty"];
+	"cat:SEA" -> "cat:SDTS_entity" [style="solid",arrowhead="empty"];
+	"cat:SHINGLE" -> "cat:SDTS_entity" [style="solid",arrowhead="empty"];
+	"cat:TURNING_BASIN" -> "cat:SDTS_entity" [style="solid",arrowhead="empty"];
+	"cat:WATERCOURSE" -> "cat:SDTS_entity" [style="solid",arrowhead="empty"];
+	"cat:WATERFALL" -> "cat:SDTS_entity" [style="solid",arrowhead="empty"];
+	"cat:WETLAND" -> "cat:SDTS_entity" [style="solid",arrowhead="empty"];
+}

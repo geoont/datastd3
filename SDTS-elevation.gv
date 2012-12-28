@@ -1,0 +1,84 @@
+/* This file was auto-generated on Thu Dec 27 21:44:51 2012
+   using SOFT.pm library version 0.5.  Command line:
+/usr/local/bin/soft2gv.pl --only cat:SDTS_entity,@SDTS-elevation.list --noorphans --tuples=SDTSEntityTypes.csv --styles=SDTS.gvsty SDTS.soft
+*/
+digraph G {
+	rankdir=BT
+	/* subgraphs */
+	/* node attributes */
+	"cat:ALLUVIUM" [weight="5",label=< <TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0">  <TR><TD>ALLUVIUM</TD></TR>  <TR><TD><FONT POINT-SIZE="8"><I>All unconsolidated fragmental<BR/>material laid down by a<BR/>stream. </I></FONT></TD></TR>  </TABLE>>,shape="plaintext"];
+	"cat:BAR" [weight="5",label=< <TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0">  <TR><TD>BAR</TD></TR>  <TR><TD><FONT POINT-SIZE="8"><I>A submerged or emerged mound,<BR/>ridge, or succession of<BR/>ridges of sand or other<BR/>material extending across the<BR/>bottom, and which may<BR/>obstruct navigation. </I></FONT></TD></TR>  </TABLE>>,shape="plaintext"];
+	"cat:BASIN" [weight="5",label=< <TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0">  <TR><TD>BASIN</TD></TR>  <TR><TD><FONT POINT-SIZE="8"><I>Any bowl-shaped depression in<BR/>the surface of the land or<BR/>ocean floor. </I></FONT></TD></TR>  </TABLE>>,shape="plaintext"];
+	"cat:BEACH" [weight="5",label=< <TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0">  <TR><TD>BEACH</TD></TR>  <TR><TD><FONT POINT-SIZE="8"><I>The gently sloping shore<BR/>which is washed by waves or<BR/>tides, especially the parts<BR/>covered by sand or pebbles. </I></FONT></TD></TR>  </TABLE>>,shape="plaintext"];
+	"cat:BOUNDARY" [weight="5",label=< <TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0">  <TR><TD>BOUNDARY</TD></TR>  <TR><TD><FONT POINT-SIZE="8"><I>A nonphysical line indicating<BR/>the limit or extent of an<BR/>area or territory. </I></FONT></TD></TR>  </TABLE>>,shape="plaintext"];
+	"cat:CAVE" [weight="5",label=< <TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0">  <TR><TD>CAVE</TD></TR>  <TR><TD><FONT POINT-SIZE="8"><I>Naturally formed,<BR/>subterranean open area or<BR/>chamber. </I></FONT></TD></TR>  </TABLE>>,shape="plaintext"];
+	"cat:CIRQUE" [weight="5",label=< <TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0">  <TR><TD>CIRQUE</TD></TR>  <TR><TD><FONT POINT-SIZE="8"><I>A deep natural hollow near<BR/>the crest of a mountain. </I></FONT></TD></TR>  </TABLE>>,shape="plaintext"];
+	"cat:COAST" [weight="5",label=< <TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0">  <TR><TD>COAST</TD></TR>  <TR><TD><FONT POINT-SIZE="8"><I>The general region of<BR/>indefinite width that extends<BR/>from the sea inland to the<BR/>first major change in terrain<BR/>features. </I></FONT></TD></TR>  </TABLE>>,shape="plaintext"];
+	"cat:CRATER" [weight="5",label=< <TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0">  <TR><TD>CRATER</TD></TR>  <TR><TD><FONT POINT-SIZE="8"><I>Circular-shaped depression at<BR/>the summit of a volcanic cone<BR/>or on the surface of the<BR/>land. </I></FONT></TD></TR>  </TABLE>>,shape="plaintext"];
+	"cat:CREVASSE" [weight="5",label=< <TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0">  <TR><TD>CREVASSE</TD></TR>  <TR><TD><FONT POINT-SIZE="8"><I>A deep fissure in snow or<BR/>ice. </I></FONT></TD></TR>  </TABLE>>,shape="plaintext"];
+	"cat:CUT" [weight="5",label=< <TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0">  <TR><TD>CUT</TD></TR>  <TR><TD><FONT POINT-SIZE="8"><I>An excavation of the Earth&#39;s<BR/>surface to provide passage<BR/>for a road, railway, canal,<BR/>etc. </I></FONT></TD></TR>  </TABLE>>,shape="plaintext"];
+	"cat:DELTA" [weight="5",label=< <TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0">  <TR><TD>DELTA</TD></TR>  <TR><TD><FONT POINT-SIZE="8"><I>A tract of alluvium formed at<BR/>the mouth of a river where<BR/>the deposition of some of its<BR/>load exceeds its rate of<BR/>removal, crossed by the<BR/>divergent channels<BR/>(distributaries) of the<BR/>river. </I></FONT></TD></TR>  </TABLE>>,shape="plaintext"];
+	"cat:EMBANKMENT" [weight="5",label=< <TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0">  <TR><TD>EMBANKMENT</TD></TR>  <TR><TD><FONT POINT-SIZE="8"><I>A raised structure of earth,<BR/>ground, etc. </I></FONT></TD></TR>  </TABLE>>,shape="plaintext"];
+	"cat:FAULT" [weight="5",label=< <TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0">  <TR><TD>FAULT</TD></TR>  <TR><TD><FONT POINT-SIZE="8"><I>A fracture in the Earth&#39;s<BR/>crust with displacement on<BR/>one side of the fracture<BR/>relative to the other. </I></FONT></TD></TR>  </TABLE>>,shape="plaintext"];
+	"cat:FLAT" [weight="5",label=< <TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0">  <TR><TD>FLAT</TD></TR>  <TR><TD><FONT POINT-SIZE="8"><I>A level tract lying at a<BR/>small depth below the surface<BR/>of water, or alternately<BR/>covered and left bare by the<BR/>tide. </I></FONT></TD></TR>  </TABLE>>,shape="plaintext"];
+	"cat:FUMAROLE" [weight="5",label=< <TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0">  <TR><TD>FUMAROLE</TD></TR>  <TR><TD><FONT POINT-SIZE="8"><I>A hole in the Earth&#39;s crust<BR/>from which steam and gases<BR/>are emitted. </I></FONT></TD></TR>  </TABLE>>,shape="plaintext"];
+	"cat:GAP" [weight="5",label=< <TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0">  <TR><TD>GAP</TD></TR>  <TR><TD><FONT POINT-SIZE="8"><I>Low point or opening between<BR/>hills or mountains or in a<BR/>ridge or mountain range. </I></FONT></TD></TR>  </TABLE>>,shape="plaintext"];
+	"cat:MINE" [weight="5",label=< <TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0">  <TR><TD>MINE</TD></TR>  <TR><TD><FONT POINT-SIZE="8"><I>An excavation in the Earth<BR/>for the purpose of extracting<BR/>earth materials. </I></FONT></TD></TR>  </TABLE>>,shape="plaintext"];
+	"cat:MORAINE" [weight="5",label=< <TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0">  <TR><TD>MORAINE</TD></TR>  <TR><TD><FONT POINT-SIZE="8"><I>An accumulation of boulders,<BR/>stones, or other debris<BR/>carried and deposited by a<BR/>glacier. </I></FONT></TD></TR>  </TABLE>>,shape="plaintext"];
+	"cat:MOUNT" [weight="5",label=< <TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0">  <TR><TD>MOUNT</TD></TR>  <TR><TD><FONT POINT-SIZE="8"><I>A mountain or hill. </I></FONT></TD></TR>  </TABLE>>,shape="plaintext"];
+	"cat:MOUNT_RANGE" [weight="5",label=< <TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0">  <TR><TD>MOUNT_RANGE</TD></TR>  <TR><TD><FONT POINT-SIZE="8"><I>A series of connected and<BR/>aligned mountains or mountain<BR/>ridges. </I></FONT></TD></TR>  </TABLE>>,shape="plaintext"];
+	"cat:PEAK" [weight="5",label=< <TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0">  <TR><TD>PEAK</TD></TR>  <TR><TD><FONT POINT-SIZE="8"><I>The summit of a mountain. </I></FONT></TD></TR>  </TABLE>>,shape="plaintext"];
+	"cat:PINNACLE" [weight="5",label=< <TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0">  <TR><TD>PINNACLE</TD></TR>  <TR><TD><FONT POINT-SIZE="8"><I>A tall, slender, spire-shaped<BR/>rock projecting from a level<BR/>or more gently sloping<BR/>surface. </I></FONT></TD></TR>  </TABLE>>,shape="plaintext"];
+	"cat:PLAIN" [weight="5",label=< <TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0">  <TR><TD>PLAIN</TD></TR>  <TR><TD><FONT POINT-SIZE="8"><I>A region of general uniform<BR/>slope, comparatively level,<BR/>and of considerable extent. </I></FONT></TD></TR>  </TABLE>>,shape="plaintext"];
+	"cat:PLATEAU" [weight="5",label=< <TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0">  <TR><TD>PLATEAU</TD></TR>  <TR><TD><FONT POINT-SIZE="8"><I>An elevated and comparatively<BR/>level expanse of land. </I></FONT></TD></TR>  </TABLE>>,shape="plaintext"];
+	"cat:QUICKSAND" [weight="5",label=< <TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0">  <TR><TD>QUICKSAND</TD></TR>  <TR><TD><FONT POINT-SIZE="8"><I>A bed of loose sand mixed<BR/>with water forming a soft,<BR/>shifting mass that yields<BR/>easily to pressure. </I></FONT></TD></TR>  </TABLE>>,shape="plaintext"];
+	"cat:REEF" [weight="5",label=< <TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0">  <TR><TD>REEF</TD></TR>  <TR><TD><FONT POINT-SIZE="8"><I>A ridge of rocks, lying near<BR/>the surface of the sea, which<BR/>may be visible at low tide,<BR/>but is usually covered by<BR/>water. </I></FONT></TD></TR>  </TABLE>>,shape="plaintext"];
+	"cat:RIDGE" [weight="5",label=< <TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0">  <TR><TD>RIDGE</TD></TR>  <TR><TD><FONT POINT-SIZE="8"><I>A long and narrow upland with<BR/>steep sides. </I></FONT></TD></TR>  </TABLE>>,shape="plaintext"];
+	"cat:RIDGE_LINE" [weight="5",label=< <TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0">  <TR><TD>RIDGE_LINE</TD></TR>  <TR><TD><FONT POINT-SIZE="8"><I>The line separating drainage<BR/>basins. </I></FONT></TD></TR>  </TABLE>>,shape="plaintext"];
+	"cat:ROCK" [weight="5",label=< <TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0">  <TR><TD>ROCK</TD></TR>  <TR><TD><FONT POINT-SIZE="8"><I>An isolated rocky formation<BR/>or a single large stone,<BR/>usually one constituting a<BR/>danger to navigation. It may<BR/>be always submerged, always<BR/>uncovered, or alternately<BR/>covered and uncovered by the<BR/>tide. </I></FONT></TD></TR>  </TABLE>>,shape="plaintext"];
+	"cat:SDTS_entity" [weight="5",shape="box",label="SDTS\nentity"];
+	"cat:SHINGLE" [weight="5",label=< <TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0">  <TR><TD>SHINGLE</TD></TR>  <TR><TD><FONT POINT-SIZE="8"><I>A collection of loose pebbles<BR/>on the shore of the sea or a<BR/>lake. </I></FONT></TD></TR>  </TABLE>>,shape="plaintext"];
+	"cat:TERRACE" [weight="5",label=< <TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0">  <TR><TD>TERRACE</TD></TR>  <TR><TD><FONT POINT-SIZE="8"><I>A step-like feature between<BR/>higher and lower ground: a<BR/>relatively flat or gently<BR/>inclined shelf of earth,<BR/>backed and fronted by steep<BR/>slopes or man-made retaining<BR/>walls. </I></FONT></TD></TR>  </TABLE>>,shape="plaintext"];
+	"cat:TROUGH" [weight="5",label=< <TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0">  <TR><TD>TROUGH</TD></TR>  <TR><TD><FONT POINT-SIZE="8"><I>A long depression of the sea<BR/>floor. </I></FONT></TD></TR>  </TABLE>>,shape="plaintext"];
+	"cat:VALLEY" [weight="5",label=< <TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0">  <TR><TD>VALLEY</TD></TR>  <TR><TD><FONT POINT-SIZE="8"><I>A long, narrow depression in<BR/>the Earth&#39;s surface, usually<BR/>with a fairly regular<BR/>downslope. </I></FONT></TD></TR>  </TABLE>>,shape="plaintext"];
+	"cat:WELL" [weight="5",label=< <TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0">  <TR><TD>WELL</TD></TR>  <TR><TD><FONT POINT-SIZE="8"><I>A pit or hole dug or bored<BR/>into the earth, for the<BR/>extraction of oil, water,<BR/>other fluids or gases. </I></FONT></TD></TR>  </TABLE>>,shape="plaintext"];
+	"cat:WETLAND" [weight="5",label=< <TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0">  <TR><TD>WETLAND</TD></TR>  <TR><TD><FONT POINT-SIZE="8"><I>A vegetated area that is<BR/>inundated or saturated by<BR/>surface or groundwater. </I></FONT></TD></TR>  </TABLE>>,shape="plaintext"];
+
+	/* relations with attributes */
+	"cat:ALLUVIUM" -> "cat:SDTS_entity" [style="solid",arrowhead="empty"];
+	"cat:BAR" -> "cat:SDTS_entity" [style="solid",arrowhead="empty"];
+	"cat:BASIN" -> "cat:SDTS_entity" [style="solid",arrowhead="empty"];
+	"cat:BEACH" -> "cat:SDTS_entity" [style="solid",arrowhead="empty"];
+	"cat:BOUNDARY" -> "cat:SDTS_entity" [style="solid",arrowhead="empty"];
+	"cat:CAVE" -> "cat:SDTS_entity" [style="solid",arrowhead="empty"];
+	"cat:CIRQUE" -> "cat:SDTS_entity" [style="solid",arrowhead="empty"];
+	"cat:COAST" -> "cat:SDTS_entity" [style="solid",arrowhead="empty"];
+	"cat:CRATER" -> "cat:SDTS_entity" [style="solid",arrowhead="empty"];
+	"cat:CREVASSE" -> "cat:SDTS_entity" [style="solid",arrowhead="empty"];
+	"cat:CUT" -> "cat:SDTS_entity" [style="solid",arrowhead="empty"];
+	"cat:DELTA" -> "cat:SDTS_entity" [style="solid",arrowhead="empty"];
+	"cat:EMBANKMENT" -> "cat:SDTS_entity" [style="solid",arrowhead="empty"];
+	"cat:FAULT" -> "cat:SDTS_entity" [style="solid",arrowhead="empty"];
+	"cat:FLAT" -> "cat:SDTS_entity" [style="solid",arrowhead="empty"];
+	"cat:FUMAROLE" -> "cat:SDTS_entity" [style="solid",arrowhead="empty"];
+	"cat:GAP" -> "cat:SDTS_entity" [style="solid",arrowhead="empty"];
+	"cat:MINE" -> "cat:SDTS_entity" [style="solid",arrowhead="empty"];
+	"cat:MORAINE" -> "cat:SDTS_entity" [style="solid",arrowhead="empty"];
+	"cat:MOUNT" -> "cat:SDTS_entity" [style="solid",arrowhead="empty"];
+	"cat:MOUNT_RANGE" -> "cat:SDTS_entity" [style="solid",arrowhead="empty"];
+	"cat:PEAK" -> "cat:SDTS_entity" [style="solid",arrowhead="empty"];
+	"cat:PINNACLE" -> "cat:SDTS_entity" [style="solid",arrowhead="empty"];
+	"cat:PLAIN" -> "cat:SDTS_entity" [style="solid",arrowhead="empty"];
+	"cat:PLATEAU" -> "cat:SDTS_entity" [style="solid",arrowhead="empty"];
+	"cat:QUICKSAND" -> "cat:SDTS_entity" [style="solid",arrowhead="empty"];
+	"cat:REEF" -> "cat:SDTS_entity" [style="solid",arrowhead="empty"];
+	"cat:RIDGE" -> "cat:SDTS_entity" [style="solid",arrowhead="empty"];
+	"cat:RIDGE_LINE" -> "cat:SDTS_entity" [style="solid",arrowhead="empty"];
+	"cat:ROCK" -> "cat:SDTS_entity" [style="solid",arrowhead="empty"];
+	"cat:SHINGLE" -> "cat:SDTS_entity" [style="solid",arrowhead="empty"];
+	"cat:TERRACE" -> "cat:SDTS_entity" [style="solid",arrowhead="empty"];
+	"cat:TROUGH" -> "cat:SDTS_entity" [style="solid",arrowhead="empty"];
+	"cat:VALLEY" -> "cat:SDTS_entity" [style="solid",arrowhead="empty"];
+	"cat:WELL" -> "cat:SDTS_entity" [style="solid",arrowhead="empty"];
+	"cat:WETLAND" -> "cat:SDTS_entity" [style="solid",arrowhead="empty"];
+}

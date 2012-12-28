@@ -1,0 +1,17 @@
+	Elevation				& Depression	&Plain				& Slope	& features			& features \\
+	\midrule
+	Bar						& Basin 			& Beach 			& Cliff		& Backwater 		&	Alluvium \\
+	Embankment 		& Cirque 			& Flat 				& Talus	& Breakers			& Boundary \\
+	Mount					& Crater 			& Floodplain	&				& Catchment		& Cave \\
+	Mount\_range		& Cut 				& Plain				&				& Ford					& Coast \\
+	Peak		 			& Fumarole 	& 						&				& Headwaters		& Crevasse \\
+	Pinnacle	 			& Gap 				& 						&				& Inlet					& Delta\\
+	Plateau 	 			& Mine 			& 						&				& Lagoon			& Fault\\
+	Reef 	 	 			& Trough 		& 						&				& Lake					& Moraine \\
+	Ridge 		 			& Valley 			& 						&				& Mouth				& Quicksand\\
+	Ridge\_line  		& Well 				& 						&				& Plunge\_pool	& Shingle\\
+	Rock  		 			&  					& 						&				& Rapids				& Shorline \\
+	Terrace 	 			&  					& 						&				& Sea					& Wetland \\
+								&						&						&				& Turning\_basin&  \\
+	 	 		 				& 						& 						&				&  Watercourse	&  \\
+	 			 				& 						& 						&				&  Waterfall			&  \\
