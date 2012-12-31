@@ -1,23 +1,23 @@
 id,code,loc_en,name_en,name_ch,trans_latex,trans
 s95000,95000,,water system,水系,Shu\u{i} X\`{i},Shuui Xi
 s95100,95100,,river,河川,H\'{e} Chuan,H'e Chuan
-s95110,95110,,type,種類,---,---
-s95111,95111,,river/brook/stream,"江,河,溪",Ji\`{a}n/H\'{e}/C\'{i},Jian/H'e/C'i
-s95112,95112,,intermitten stream,時令河,Sh\'{i} L\`{i}ng H\'{e},Sh'i Ling H'e
+s95110,95110,,(type),(種類),(Zh\u{o}ng L\`{e}i),(Zhuong Lei)
+s95111,95111,,river/brook/stream,"江,河,溪","Ji\`{a}n, H\'{e}, C\'{i}","Jian,H'e,C'i"
+s95112,95112,,intermittent stream,時令河,Sh\'{i} L\`{i}ng H\'{e},Sh'i Ling H'e
 s95113,95113,,wadi river,乾河,G\={a}n H\`{e},Gan He
 s95114,95114,,stream,小河,Xi\u{a}o H\'{e},Xiuao H'e
 s95115,95115,,canal,運河,{Y\'{u}n H\'{e},Y'un H'e
 s95116,95116,line,double line ditch,"溝,渠",G\={o}u Q\u{i},Gou Qui
 s95117,95117,line,single line ditch,小水溝,Xi\u{a}o Shu\u{i} G\={o}u,Xiuao Shuui Gou
-s95120,95117,,facility,附屬設施,F\`{u} Sh\u{u} Sh\`{e} Sh\={i},Fu Shuu She Shi
-s95130,95117,,shore construction,岸邊工程,{A}n Bi\={a}n G\={o}ng Ch\'{e}ng,An Bian Gong Ch'eng
-s95140,95117,,terrain in river or along shore,"河岸,河中地形",H\'{e} \`{A}n\slash H\'{e} Zh\={o}ng D\`{i} X\'{i}ng,H'e An/ H'e Zhong Di X'ing
-s95150,95150,,flow property,水流性質,Shu\u{i} Li\'{u} X\`{i}ng Zh\'{i},Shuui Li'u Xing Zh'i
+s95120,95120,,facility,附屬設施,F\`{u} Sh\u{u} Sh\`{e} Sh\={i},Fu Shuu She Shi
+s95130,95130,,construction along shore,岸邊工程,{A}n Bi\={a}n G\={o}ng Ch\'{e}ng,An Bian Gong Ch'eng
+s95140,95140,,terrain in river or along shore,"河岸,河中地形","H\'{e} \`{A}n, H\'{e} Zh\={o}ng D\`{i} X\'{i}ng",H'e An/ H'e Zhong Di X'ing
+s95150,95150,,(flow property),(水流性質),(Shu\u{i} Li\'{u} X\`{i}ng Zh\'{i}),(Shuui Li'u Xing Zh'i)
 s95151,95151,,rapid,湍流,Tu\={a}n Li\'{u},Tuan Li'u
 s95152,95152,,fall,瀑布,P\`{u} B\`{u},Pu Bu
 s95153,95153,,flow direction,河川流向,H\'{e} Chuan Li\'{u} Xi\`{a}ng,H'e Chuan Li'u Xiang
-s95200,95200,,areal waterbody,面狀水域,Mi\`{a}n Zhu\`{a}ng Sh\u{u}i Y\`{u},Mian Zhuang Shuui Yu
-s95210,95210,,type,種類,---,---
+s95200,95200,,water area,面狀水域,Mi\`{a}n Zhu\`{a}ng Sh\u{u}i Y\`{u},Mian Zhuang Shuui Yu
+s95210,95210,,(type),(種類),(Zh\u{o}ng L\`{e}i),(Zhuong L'ei)
 s95211,95211,,lake,湖泊,H\'{u} B\'{o},H'u B'o
 s95212,95212,,pond,池塘,Ch\'{i} T\'{a}ng,Ch'i T'ang
 s95213,95213,,dry pool,乾池,G\={a}n Ch\'{i},Gan Ch'i
@@ -31,7 +31,7 @@ s95310,95310,,coast,海岸,H\u{a}i \`{A}n,Huai An
 s95311,95311,,cliffy coast,崖岸,Y\'{a}i \`{A}n,Y'ai An
 s95312,95312,,coastline,海岸線,H\u{a}i \`{A}n Xi\`{a}n,Huai An Xian
 s95320,95320,,facility,附屬設施,F\`{u} Sh\u{u} Sh\`{e} Sh\={i},Fu Shuu She Shi
-s95400,95400,,shore and water bottom geology,岸濱與水底地質,An B\={i}n\slash Sh\u{u}i D\u{i} D\`{i} Zh\'{i},An Bin/ Shuui Dui Di Zh'i
+s95400,95400,,shore and submarine geology,岸濱與水底地質,An B\={i}n\slash Sh\u{u}i D\u{i} D\`{i} Zh\'{i},An Bin/ Shuui Dui Di Zh'i
 s95410,95410,,shore geology,岸濱地質,An B\={i}n D\`{i} Zh\'{i},An Bin Di Zh'i
 s95411,95411,,shore,濱,B\={i}n,Bin
 s95412,95412,,coral reef,珊瑚礁,Sh\={a}n H\'{u} Ji\={a}o,Shan H'u Jiao
@@ -39,9 +39,9 @@ s95411a,95411a,,mud shore,泥濱,N\'{i} B\={i}n,N'i Bin
 s95411b,95411b,,sand shore,沙濱,Sha B\={i}n,Sha Bin
 s95411c,95411c,,gravel shore,礫濱,L\`{i} B\={i}n,Li Bin
 s95411d,95411d,,rock shore,岩濱,Y\'{a}n B\={i}n,Y'an Bin
-s95420,95420,,water bottom geology,水底地質,Sh\u{u}i D\u{i} D\`{i} Zh\'{i},Shuui Dui Di Zh'i
+s95420,95420,,submarine geology,水底地質,Sh\u{u}i D\u{i} D\`{i} Zh\'{i},Shuui Dui Di Zh'i
 s95424,95424,,rock,岩床,Y\'{a}n Chu\'{a}ng,Y'an Chu'ang
-s95900,95900,,other,其它,---,---
+s95900,95900,,(other),(其它),(Q\'{i} T\={a}),Q'i Ta
 s95901,95901,,bare rock,顯礁,Xi\u{a}n Ji\={a}o,Xiuan Jiao
 s95902,95902,,reef,暗礁,\`{A}n Ji\={a}o,An Jiao
 s95905,95905,,island,島嶼,D\u{a}o Y\u{u},Duao Yuu
@@ -49,12 +49,12 @@ s95906,95906,,offshore bar,濱外沙洲,B\={i}n W\`{a}i Sh\={a} Zh\={o}u,Bin Wai
 s98000,98000,,"relief, landform",地貌,D\`{i} M\`{a}o,Di Mao
 s98100,98100,,elevation,高程,G\={a}o Ch\'{e}ng,Gao Ch'eng
 s98200,98200,,various landform*,諸地貌,Zh\={u} D\`{i} M\`{a}o,Zhu Di Mao
-s98210,98210,,relief land,起伏地,Ch\'{i} Fu D\`{i},Ch'i Fu Di
+s98210,98210,,relief land,起伏地,Ch\u{i} Fu D\`{i},Ch'ui Fu Di
 s98211,98211,,depression,凹地,\={A}o D\`{i},Ao Di
-s98212,98212,,"mound, terrace, hillock","土墩, 台地, 小丘",T\u{u} Dun\slash Tai D\`{i}\slash Xi\u{a}o Cio,Tuu Dun/ Tai Di/ Xiuao Cio
+s98212,98212,,"mound, terrace, hillock","土墩, 台地, 小丘","T\u{u} Dun, Tai D\`{i}, Xi\u{a}o Cio","Tuu Dun, Tai D'i, Xiuao Cio"
 s98213,98213,,cliff,斷崖,Du\`{a}n Y\'{a}i,Duan Y'ai
-s98220,98220,,"collapse,erosion,weathering*","崩,蝕,風化",F\`{u} Sh\u{u} Sh\`{e} Sh\={i},Fu Shuu She Shi
-s98221,98221,,ravine,雨裂,Beng\slash Sh\'{i}h\slash Fong Hu\`{a},Beng/ Sh'ih/ Fong Hua
+s98220,98220,,"collapse,erosion,weathering","崩,蝕,風化","B\={e}ng, Sh\'{i}, F\={e}ng Hu\`{a}","Beng, Sh'i, Feng Hu"
+s98221,98221,,ravine,雨裂,Y\u{u} Li\`{e},Beng/ Sh'ih/ Fong Hua
 s98222,98222,,gully,流土,Li\'{o}u T\'{u},Li'ou T'u
 s98223,98223,,colluvial,崩土,Beng T\'{u},Beng T'u
 s98224,98224,,badland,惡地,\`{E} D\`{i},E Di
@@ -65,5 +65,5 @@ s98233,98233,,rocky outcropping,露岩,L\`{u} y\'{a}n,Lu y'an
 s98240,98240,,sand dune,沙丘,Sh\={a} Qi\={u},Sha Qiu
 s98250,98250,,cave,洞穴,D\`{o}ng Syu\`{e},Dong Syue
 s98260,98260,,volcano,火山,Hu\u{o} Shan,Huuo Shan
-s98900,98900,,other,其他,---,---
+s98900,98900,,(other),(其他),(Q\'{i} T\={a}),(Ta)
 s98910,98910,,mud volcano,泥火山,N\'{i} Hu\u{o} Shan,N'i Huuo Shan
