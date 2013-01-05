@@ -7,7 +7,7 @@ all: RFK-hydrography.pdf RFK-elevation.pdf TMOI-hydrography.pdf TMOI-elevation.p
 .PRECIOUS: RFK-%.gv TMOI-%.gv
 
 RFK-hydrography.soft: RFK.soft RFK.csv
-	grep ^cat:2 RFK.soft > RFK-hydrography.soft
+	grep ^cat:3 RFK.soft > RFK-hydrography.soft
 
 RFK-elevation.soft: RFK.soft RFK.csv
 	grep ^cat:2 RFK.soft > RFK-elevation.soft
