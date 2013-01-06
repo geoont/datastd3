@@ -1,9 +1,9 @@
 datastd3
 ========
 
-The repository contains ontologies for the three topographic map standards TTMDS, RFK, and the US SDTS listed below. It serves as a supplementary material for a work comparing topographic and hydrographic categories between data standards from which the major languages used are significantly different. 
+The repository contains data describing the categories and hierarchies in TTMDS, RFK, and the US SDTS listed below. It serves as a supplementary material for a work comparing topographic and hydrographic categories between data standards from which the major languages used are significantly different. 
 
-Each standard comes with a set of files, which include (1) a CSV file containing category names and codes in comma-delimited format, (2) a SOFT file describing the structure of categories in a data standard, (3) two GV files automatically generated from the SOFT file, one for hydrographic and the other for topographic categories, and the corresponding PDF files for easy viewing.
+Each standard comes with a set of files, which include (1) a CSV file containing category names and codes in comma-delimited format, (2) a SOFT file describing the structure of categories in a data standard, (3) two GV files automatically generated from the SOFT file, one for hydrographic and the other for topographic categories, and the corresponding PDF files. These files serve the purpose of (1) understanding what are the categories in each standard, (2) understanding what are the organizing structure of a data standard, and (3) facilitating easy viewing and printing.
 
 
 
