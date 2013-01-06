@@ -8,9 +8,9 @@ This is a supplementary material for ...biblioraphic refrence...
 TMOI
 ----
 
-full name
+Full name: Definition of terms in topographic map databases (基本地形圖資料庫專有名詞定義)
 
-source
+Source: http://www.fas.harvard.edu/~chgis/work/coding/feat_types_tw.htm
 
 RFK
 ---
