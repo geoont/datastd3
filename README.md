@@ -22,9 +22,11 @@ Synopsis: The Taiwan Topographic Map Data Sstandard (TTMDS), published by the Ta
 RFK
 ---
 
-full name
+Full name: A table of unclassified feature codes for digital topographic maps of 1:100,000 scale 
+(Классификатор объектов цифровой топографической
+карты масштаба 1:100,000, содержащихся на ЦТК открытого пользования).
 
-source
+Source: http://ggc.ru/docs/100000_otkr.pdf
 
 SDTS
 ----
