@@ -3,12 +3,15 @@ datastd3
 
 The repository contains data describing the categories and hierarchies in TTMDS, RFK, and the US SDTS listed below. Each standard comes with a set of files, which include (1) a CSV file containing category names and codes in comma-delimited format, (2) a SOFT file describing the structure of categories in a data standard, (3) two GV files automatically generated from the SOFT file, one for hydrographic and the other for topographic categories, and the corresponding PDF files. These files serve the purpose of (1) understanding what are the categories in each standard, (2) understanding what are the organizing structure of a data standard, and (3) facilitating easy viewing and printing, respectively.
 
+For description of thee formats see:
 
+ * SOFT: http://sorokine.github.com/SOFT
+ * GV/graphviz: http://graphviz.org
 
 TTMDS
 ----
 
-Full name: Definition of terms in topographic map databases (基本地形圖資料庫專有名詞定義)
+Full name: Definition of terms in topographic map databases (基本地形圖資料庫專有名詞定義)
 
 Source: http://www.fas.harvard.edu/~chgis/work/coding/feat_types_tw.htm
 
