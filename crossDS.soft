@@ -1,0 +1,217 @@
+#########################
+# Relations between related categories between two data standards
+#
+# Types of relations
+# (1) -specific-> "the left category is a specifc kind of the right category"
+# (2) -partialoverlap-> "the two categories partial overlap"
+# (3) -nocounterpart-> "the left category finds no counterpart found for the standard on the right"
+# (4) -smaller-> "the left-hand category is smaller than the right-hand category"
+# (5) -identical-> "the left category is identical to the right category"
+# (6) -identicaldiffclass-> "the left category is identical to the right category but under different branches of the respective hierarchies"
+#
+#
+
+#
+# Section 6.2.1 Linear WAterbody Categories
+#
+cat:[TTMDS]s95111JIAN -specific-> cat:[SDTS]beck
+cat:[RFK]314312 -nocounterpart-> cat:[SDTS]nil
+cat:[RFK]3143152 -nocounterpart-> cat:[SDTS]nil
+cat:[RFK]314312 -nocounterpart-> cat:[TTMDS]nil
+cat:[RFK]3143152 -nocounterpart-> cat:[TTMDS]nil
+cat:[SDTS]river -partialoverlap-> cat:[TTMDS]s95111#1
+cat:[SDTS]river -partialoverlap-> cat:[TTMDS]s95111#2
+cat:[SDTS]river -partialoverlap-> cat:[TTMDS]s95111#3
+cat:[SDTS]river -partialoverlap-> cat:[TTMDS]ns95111#CHUAN
+cat:[SDTS]stream -partialoverlap-> cat:[TTMDS]s95111#1
+cat:[SDTS]stream -partialoverlap-> cat:[TTMDS]s95111#2
+cat:[SDTS]stream -partialoverlap-> cat:[TTMDS]s95111#3
+cat:[SDTS]beck -partialoverlap-> cat:[TTMDS]s95111#2
+cat:[SDTS]beck -partialoverlap-> cat:[TTMDS]s95111#3
+cat:[SDTS]brook -partialoverlap-> cat:[TTMDS]s95111#2
+cat:[SDTS]brook -partialoverlap-> cat:[TTMDS]s95111#3
+cat:[SDTS]creek -partialoverlap-> cat:[TTMDS]s95111#2
+cat:[SDTS]creek -partialoverlap-> cat:[TTMDS]s95111#3
+cat:[SDTS]kill -partialoverlap-> cat:[TTMDS]s95111#2
+cat:[SDTS]kill -partialoverlap-> cat:[TTMDS]s95111#3
+cat:[SDTS]pup -partialoverlap-> cat:[TTMDS]s95111#2
+cat:[SDTS]pup -partialoverlap-> cat:[TTMDS]s95111#3
+cat:[SDTS]rivulet -partialoverlap-> cat:[TTMDS]s95111#3
+cat:[SDTS]rill -partialoverlap-> cat:[TTMDS]s95111#3
+cat:[SDTS]rio -partialoverlap-> cat:[TTMDS]s95111#2
+cat:[SDTS]river -partialoverlap-> cat:[RFK]3141
+cat:[SDTS]river -partialoverlap-> cat:[RFK]3142
+cat:[SDTS]stream -partialoverlap-> cat:[RFK]3141
+cat:[SDTS]stream -partialoverlap-> cat:[RFK]3142
+cat:[SDTS]WATERCOURSE -partialoverlap-> cat:[TTMDS]s95000
+cat:[SDTS]WATERCOURSE -partialoverlap-> cat:[RFK]3
+cat:[SDTS]rill -partialoverlap-> [TTMDS]s95115
+cat:[SDTS]channel -partialoverlap-> [TTMDS]s95116
+cat:[SDTS]channel -partialoverlap-> [TTMDS]s95111#1
+cat:[SDTS]channel -partialoverlap-> [TTMDS]s95111#2
+cat:[SDTS]channel -partialoverlap-> [TTMDS]s95111#3
+cat:[SDTS]channel -partialoverlap-> [TTMDS]ns95111CHUAN
+
+# ====> cat:[SDTS]channel -partialoverlap-> to 15 RFK categories?
+# ====> cat:[SDTS]channel -partialoverlap-> to some RFK natural watercourse categories?
+
+#
+# Section 6.2.2 Areal Waterbody Categories
+#
+cat:[SDTS]mortlake -specific-> cat:[TTMDS]s95211
+cat:[SDTS]inlandsea -specific-> cat:[TTMDS]s95211
+cat:[SDTS]pasteuerlake -specific-> cat:[TTMDS]s95211
+cat:[SDTS]paternosterlake -specific-> cat:[TTMDS]s95211
+cat:[SDTS]proglaciallake -specific-> cat:[TTMDS]s95211
+cat:[SDTS]closedsea -specific-> cat:[TTMDS]ns95000HAI
+cat:[SDTS]marginalsea -specific-> cat:[TTMDS]ns95000HAI
+cat:[SDTS]ocean -specific-> cat:[TTMDS]ns95000HAI
+cat:[SDTS]opensea -specific-> cat:[TTMDS]ns95000HAI
+cat:[SDTS]openwater -specific-> cat:[TTMDS]ns95000HAI
+cat:[SDTS]oxbow -identical-> cat:[TTMDS]ns95211NIU
+cat:[SDTS]saltlake -identical-> cat:[TTMDS]s95211SALT
+cat:[SDTS]bayou -partialoverlap-> cat:[TTMDS]s95211
+cat:[SDTS]bayou -partialoverlap-> cat:[TTMDS]s95111#2
+cat:[SDTS]bayou -partialoverlap-> cat:[TTMDS]s95111#3
+cat:[SDTS]catchbasin -partialoverlap-> cat:[TTMDS]S95211
+cat:[TTMDS]S95211GOU -specific-> cat:[SDTS]LAKE
+cat:[TTMDS]S95211HUO -specific-> cat:[SDTS]LAKE
+cat:[TTMDS]S95211BING -specific-> cat:[SDTS]LAKE
+cat:[TTMDS]S95211YAN -specific-> cat:[SDTS]LAKE
+cat:[TTMDS]S95211YANG -specific-> cat:[SDTS]LAKE
+cat:[TTMDS]S95211XIE -identical-> cat:[SDTS]LAGOON
+cat:[TTMDS]S95211REN -specific-> cat:[SDTS]LAKE
+cat:[TTMDS]S95211DAN -specific-> cat:[SDTS]LAKE
+
+# ====> relations from SDTS --> RFK (for lakes)?
+# ====> relations from RFK --> SDTS (for lakes)?
+
+cat:[RFK]3112 -partialoverlap-> cat:[SDTS]LAKE
+cat:[RFK]3112 -partialoverlap-> cat:[TTMDS]s95211
+cat:[RFK]31131 -partialoverlap-> cat:[TTMDS]s95216
+cat:[RFK]31132 -partialoverlap-> cat:[TTMDS]s95212
+cat:[RFK]31133 -partialoverlap-> cat:[TTMDS]s95212
+cat:[RFK]31131 -partialoverlap-> cat:[SDTS]reservoir
+cat:[RFK]31132 -partialoverlap-> cat:[SDTS]pond
+cat:[RFK]31133 -partialoverlap-> cat:[SDTS]pool
+
+cat:[SDTS]backwater -nocounterpart-> cat:[TTMDS]nil
+cat:[SDTS]turningbasin -nocounterpart-> cat:[TTMDS]nil
+cat:[SDTS]backwater -nocounterpart-> cat:[RFK]nil
+cat:[SDTS]turningbasin -nocounterpart-> cat:[RFK]nil
+
+cat:[TTMDS]95214 -identical-> cat:[SDTS]bog
+cat:[TTMDS]95215 -partialoverlap-> cat:[SDTS]wetland
+#====> cat:[RFK] -identicaldiffclass-> cat:[SDTS]wetland
+#====> cat:[RFK] -identicaldiffclass-> cat:[SDTS]swamp
+
+cat:[SDTS]pond -partialoverlap-> cat:[TTMDS]95212
+cat:[SDTS]pool -partialoverlap-> cat:[TTMDS]95212
+cat:[SDTS]reservoir -partialoverlap-> cat:[TTMDS]95216
+cat:[SDTS]reservoir -partialoverlap-> cat:[TTMDS]95217
+cat:[SDTS]pond -partialoverlap-> cat:[RFK]31132
+cat:[RFK]31132 -partialoverlap-> cat:[TTMDS]95212
+cat:[SDTS]swimming_pool -specific-> cat:[RFK]31133
+cat:[RFK]31133 -partialoverlap-> cat:[SDTS]pool
+cat:[RFK]31133 -partialoverlap-> cat:[TTMDS]95212
+
+
+#
+# Section 6.3.1
+#
+cat:[SDTS]hillock -specific-> cat:[TTMDS]98212
+cat:[SDTS]mound -specific-> cat:[TTMDS]98212
+cat:[SDTS]vocano -identical-> cat:[TTMDS]98260
+cat:[SDTS]tableland -partialoverlap-> cat:[TTMDS]98212
+
+cat:[SDTS]mountain -partialoverlap-> cat:[TTMDS]ns98000SHAN
+cat:[SDTS]mountain -partialoverlap-> cat:[TTMDS]ns98240QIU
+cat:[SDTS]hill -partialoverlap-> cat:[TTMDS]ns98000SHAN
+cat:[SDTS]hill -partialoverlap-> cat:[TTMDS]ns98240QIU
+#====> cat:[RFK]гора -partialoverlap-> cat:[SDTS]mountain?
+#====> cat:[RFK]гора -partialoverlap-> cat:[SDTS]hill?
+
+cat:[RFK]31332 -specific-> cat:[SDTS]rock
+cat:[RFK]31333 -specific-> cat:[SDTS]rock
+cat:[TTMDS]95901 -specific-> cat:[SDTS]rock
+cat:[TTMDS]95902 -specific-> cat:[SDTS]rock
+cat:[TTMDS]95901 -partialoverlap-> cat:[SDTS]reef
+cat:[TTMDS]95902 -partialoverlap-> cat:[SDTS]reef
+
+cat:[SDTS]sand_horn -specific-> cat:[TTMDS]95142
+cat:[SDTS]transverse_bar -specific-> cat:[TTMDS]95142
+cat:[SDTS]tongue -specific-> cat:[TTMDS]95142
+cat:[SDTS]barrier_beach -specific-> cat:[TTMDS]95142
+cat:[SDTS]barrier_island -specific-> cat:[TTMDS]95142
+cat:[SDTS]bay_bar -specific-> cat:[TTMDS]95142
+cat:[SDTS]bay_barrier -specific-> cat:[TTMDS]95142
+cat:[SDTS]bay_head_bar -specific-> cat:[TTMDS]95142
+cat:[SDTS]baymouth_bar -specific-> cat:[TTMDS]95142
+cat:[SDTS]cuspate_bar -specific-> cat:[TTMDS]95142
+cat:[SDTS]hook -specific-> cat:[TTMDS]95142
+cat:[SDTS]hooked_spit -specific-> cat:[TTMDS]95142
+cat:[SDTS]longshore_bar -specific-> cat:[TTMDS]95142
+cat:[SDTS]offshore_bar -specific-> cat:[TTMDS]95142
+cat:[SDTS]recurved_spit -specific-> cat:[TTMDS]95142
+cat:[SDTS]sand_bank -specific-> cat:[TTMDS]95142
+cat:[SDTS]sand_horn -specific-> cat:[TTMDS]95142
+cat:[SDTS]sand_lobe -specific-> cat:[TTMDS]95142
+cat:[SDTS]sand_spit -specific-> cat:[TTMDS]95142
+cat:[SDTS]sandbar -specific-> cat:[TTMDS]95142
+cat:[SDTS]spit -specific-> cat:[TTMDS]95142
+cat:[SDTS]tombolo -specific-> cat:[TTMDS]95142
+cat:[SDTS]shoal -partialoverlap-> cat:[TTMDS]95142
+cat:[SDTS]point -partialoverlap-> cat:[TTMDS]95142
+cat:[SDTS]shoal -partialoverlap-> cat:[RFK]31212
+cat:[SDTS]shoal -partialoverlap-> cat:[RFK]31211
+
+#
+# Section 6.3.2 Slope
+#
+cat:[TTMDS]95213 -partialoverlap-> cat:[SDTS]CLIFF
+cat:[TTMDS]95213 -partialoverlap-> cat:[SDTS]escarpment
+cat:[TTMDS]95213 -partialoverlap-> cat:[SDTS]scar
+cat:[TTMDS]95213 -partialoverlap-> cat:[SDTS]crag
+cat:[TTMDS]95213 -partialoverlap-> cat:[SDTS]precipice
+cat:[TTMDS]95213 -partialoverlap-> cat:[SDTS]palisade
+cat:[RFK]2241 -partialoverlap-> cat:[TTMDS]95213
+cat:[RFK]2241 -partialoverlap-> cat:[TTMDS]95311
+cat:[RFK]22151 -identical-> cat:[SDTS]ice_cliff
+cat:[RFK]2241 -partialoverlap-> cat:[SDTS]CLIFF
+cat:[RFK]2241 -partialoverlap-> cat:[SDTS]crag
+cat:[RFK]2241 -partialoverlap-> cat:[SDTS]precipice
+cat:[RFK]2241 -partialoverlap-> cat:[SDTS]escarpment
+cat:[RFK]2241 -partialoverlap-> cat:[SDTS]scaw
+cat:[RFK]2241 -partialoverlap-> cat:[SDTS]scar
+cat:[RFK]2241 -partialoverlap-> cat:[SDTS]scarp
+cat:[RFK]2241 -partialoverlap-> cat:[SDTS]palisade
+cat:[RFK]2241 -partialoverlap-> cat:[SDTS]marine_cliff
+cat:[RFK]2241 -partialoverlap-> cat:[SDTS]beach_scarp
+cat:[RFK]2241 -partialoverlap-> cat:[SDTS]bluff
+cat:[RFK]2241 -partialoverlap-> cat:[SDTS]crag
+cat:[RFK]2241 -partialoverlap-> cat:[SDTS]bluff
+cat:[TTMDS]95212 -partialoverlap-> cat:[SDTS]beanch
+cat:[RFK]2265 -specific-> cat:[SDTS]Terrace
+cat:[SDTS]Talus -identical-> cat:[RFK]2262
+
+#
+# Section 6.3.3
+#
+cat:[TTMDS]95222 -partialoverlap-> cat:[SDTS]gully
+cat:[RFK]22212 -partialoverlap-> cat:[SDTS]gully
+cat:[TTMDS]98211 -partialoverlap-> cat:[SDTS]coulee
+cat:[TTMDS]98211 -partialoverlap-> cat:[SDTS]goe
+cat:[TTMDS]98211 -partialoverlap-> cat:[SDTS]gulch
+cat:[RFK]22211 -partialoverlap-> cat:[SDTS]coulee
+cat:[RFK]22211 -partialoverlap-> cat:[SDTS]goe
+cat:[TTMDS]95113 -partialoverlap-> cat:[SDTS]arroyo
+cat:[TTMDS]95113 -partialoverlap-> cat:[SDTS]gulch
+cat:[TTMDS]95113 -partialoverlap-> cat:[SDTS]wadi
+cat:[RFK]22221 -partialoverlap-> cat:[SDTS]arroyo
+cat:[RFK]22221 -partialoverlap-> cat:[SDTS]gulch
+cat:[RFK]22221 -partialoverlap-> cat:[SDTS]wadi
+cat:[TTMDS]95113 -identical-> cat:[RFK]22221
+cat:[TTMDS]95213 -identical-> cat:[RFK]22222
+cat:[TTMDS]98211 -partialoverlap-> cat:[SDTS]hollow
+cat:[TTMDS]98211 -partialoverlap-> cat:[SDTS]depression
+
