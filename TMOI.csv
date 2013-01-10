@@ -68,9 +68,9 @@ s98260,98260,,volcano,火山,Hu\u{o} Shan,Huuo Shan
 s98900,98900,,(other),(其他),(Q\'{i} T\={a}),(Q'i Ta)
 s98910,98910,,mud volcano,泥火山,N\'{i} Hu\u{o} Shan,N'i Huuo Shan
 nil,,,(nocounterpart),,,
-s95111#1,95111#1,,river,江,Ji\`{a}n,Jian
-s95111#2,95111#2,,river,河,H\'{e},H'e
-s95111#3,95111#3,,stream,溪,C\'{i},C'i
+s95111_1,95111#1,,river,江,Ji\`{a}n,Jian
+s95111_2,95111#2,,river,河,H\'{e},H'e
+s95111_3,95111#3,,stream,溪,C\'{i},C'i
 ns95111CHUAN,95111NSC,,river,川,chuan,chuan
 ns95111JIAN,95111NSC,,ravine,澗,ji\`{a}n,jian
 ns95000HAI,95000NSC,,sea,海,h\u{a}i,huai
