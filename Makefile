@@ -27,7 +27,7 @@ TMOI-%.gv: TMOI-%.soft TMOI.gvsty
 	soft2gv.pl --noorphans --tuples=TMOI.csv --styles=TMOI.gvsty $< > $@
 
 SDTS-%.gv: SDTS.soft SDTS.gvsty SDTS-%.list
-	soft2gv.pl --only cat:SDTS_entity,@SDTS-$*.list --noorphans --tuples=SDTSEntityTypes.csv --styles=SDTS.gvsty $< > $@
+	egrep $$(cat SDTS-$*.list | tr '\n' '|' | sed -e 's/| *$$//' ) $< | soft2gv.pl --noorphans --tuples=SDTSEntityTypes.csv --styles=SDTS.gvsty > $@
 
 %.pdf: %.gv
 	dot -Tpdf -o $@ $<
