@@ -1,0 +1,1 @@
+cat SDTS.soft RFK.soft TMOI.soft <(sed -e 's/\[[^]]\+\]//g' crossDS.soft) | soft2gv.pl --no-orphans --tuples=RFK.csv,TMOI.csv,SDTSEntityTypes.csv --styles=RFK.gvsty,TMOI.gvsty,SDTS.gvsty | dot -Tpdf > t.pdf
