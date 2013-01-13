@@ -2,6 +2,11 @@
 # Converts SOFT files into PDF diagrams via graphviz
 #
 
+#
+# This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License.
+# To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/.
+#
+
 all: RFK-hydrography.pdf RFK-elevation.pdf TMOI-hydrography.pdf TMOI-elevation.pdf SDTS-hydrography.pdf SDTS-elevation.pdf
 
 .PRECIOUS: RFK-%.gv TMOI-%.gv SDTS-%.gv
