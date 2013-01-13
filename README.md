@@ -42,3 +42,7 @@ SDTS specification Annex C: Included Terms
 http://mcmcweb.er.usgs.gov/sdts/SDTS_standard_nov97/p2anxc.html
 
 Synopsis: The US SDTS of the US Geological Survey was designed to provide a means to transfer earth-reference spatial data between dissimilar computer systems. It is scale-independent and contains 200 mutually exclusive standard categories, which describe real-world features instead of those in the database schema or cartographic representations. The standard provides a definition expressed in natural language for each standard category.
+
+License
+=======
+This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/.
