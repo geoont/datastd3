@@ -1,3 +1,24 @@
+#
+# Categories in the "Unclassified feature codes for digital
+# topographic maps of 1:100,000 scale (Классификатор объектов
+# цифровой топографической карты масштаба 1:100,000, содержащихся
+# на ЦТК открытого пользования)"
+# source of the categories:
+#   http://ggc.ru/docs/100000_otkr.pdf
+#
+
+#
+# This work is licensed under the Creative 
+# Commons Attribution-ShareAlike 3.0 Unported License.
+# To view a copy of this license, visit
+# http://creativecommons.org/licenses/by-sa/3.0/.
+#
+
+#
+# description of the file format:
+#   http://sorokine.github.com/SOFT
+#
+
 cat:1 -subcat-> cat:root
 cat:11 -subcat-> cat:1
 cat:111 -subcat-> cat:11

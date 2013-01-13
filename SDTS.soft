@@ -1,5 +1,20 @@
 #
-# SDTS Entities
+# Categories in the US Spatial Data Transfer Standard
+# source of the categories:
+#   Entity Types http://mcmcweb.er.usgs.gov/sdts/SDTS_standard_nov97/p2anxa.html
+#   Included Terms http://mcmcweb.er.usgs.gov/sdts/SDTS_standard_nov97/p2anxc.html
+#
+
+#
+# This work is licensed under the Creative 
+# Commons Attribution-ShareAlike 3.0 Unported License.
+# To view a copy of this license, visit
+# http://creativecommons.org/licenses/by-sa/3.0/.
+#
+
+#
+# description of the file format:
+#   http://sorokine.github.com/SOFT
 #
 
 cat:AIRPORT -subcat-> cat:SDTS_entity

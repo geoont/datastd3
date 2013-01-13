@@ -1,3 +1,21 @@
+#
+# Categories in the Taiwan Topographic Map Data Standard (TTMDS)
+# source of the categories:
+#   http://www.fas.harvard.edu/~chgis/work/coding/feat_types_tw.htm
+#
+
+#
+# This work is licensed under the Creative 
+# Commons Attribution-ShareAlike 3.0 Unported License.
+# To view a copy of this license, visit
+# http://creativecommons.org/licenses/by-sa/3.0/.
+#
+
+#
+# description of the file format:
+#   http://sorokine.github.com/SOFT
+#
+
 cat:s95100 -subcat-> cat:s95000
 cat:s95110 -subcat-> cat:s95100
 cat:s95111 -subcat-> cat:s95110
