@@ -12,7 +12,7 @@
 #
 
 #
-# Section 6.2.1 Linear WAterbody Categories
+# Section 6.2.1 Linear Waterbody Categories
 #
 cat:[TTMDS]s95111JIAN -specific-> cat:[SDTS]beck
 cat:[RFK]314312 -nocounterpart-> cat:[SDTS]nil
