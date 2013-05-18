@@ -22,7 +22,7 @@ cat:[RFK]3143152 -nocounterpart-> cat:[TTMDS]nil
 cat:[SDTS]river -partialoverlap-> cat:[TTMDS]s95111_1
 cat:[SDTS]river -partialoverlap-> cat:[TTMDS]s95111_2
 cat:[SDTS]river -partialoverlap-> cat:[TTMDS]s95111_3
-cat:[SDTS]river -partialoverlap-> cat:[TTMDS]ns95111_CHUAN
+cat:[SDTS]river -partialoverlap-> cat:[TTMDS]ns95111CHUAN
 cat:[SDTS]stream -partialoverlap-> cat:[TTMDS]s95111_1
 cat:[SDTS]stream -partialoverlap-> cat:[TTMDS]s95111_2
 cat:[SDTS]stream -partialoverlap-> cat:[TTMDS]s95111_3
@@ -73,15 +73,15 @@ cat:[SDTS]saltlake -identical-> cat:[TTMDS]s95211SALT
 cat:[SDTS]bayou -partialoverlap-> cat:[TTMDS]s95211
 cat:[SDTS]bayou -partialoverlap-> cat:[TTMDS]s95111_2
 cat:[SDTS]bayou -partialoverlap-> cat:[TTMDS]s95111_3
-cat:[SDTS]catchbasin -partialoverlap-> cat:[TTMDS]S95211
-cat:[TTMDS]S95211GOU -specific-> cat:[SDTS]LAKE
-cat:[TTMDS]S95211HUO -specific-> cat:[SDTS]LAKE
-cat:[TTMDS]S95211BING -specific-> cat:[SDTS]LAKE
-cat:[TTMDS]S95211YAN -specific-> cat:[SDTS]LAKE
-cat:[TTMDS]S95211YANG -specific-> cat:[SDTS]LAKE
-cat:[TTMDS]S95211XIE -identical-> cat:[SDTS]LAGOON
-cat:[TTMDS]S95211REN -specific-> cat:[SDTS]LAKE
-cat:[TTMDS]S95211DAN -specific-> cat:[SDTS]LAKE
+cat:[SDTS]catchbasin -partialoverlap-> cat:[TTMDS]s95211
+cat:[TTMDS]s95211GOU -specific-> cat:[SDTS]LAKE
+cat:[TTMDS]s95211HUO -specific-> cat:[SDTS]LAKE
+cat:[TTMDS]s95211BING -specific-> cat:[SDTS]LAKE
+cat:[TTMDS]s95211YAN -specific-> cat:[SDTS]LAKE
+cat:[TTMDS]s95211YANG -specific-> cat:[SDTS]LAKE
+cat:[TTMDS]s95211XIE -identical-> cat:[SDTS]LAGOON
+cat:[TTMDS]s95211REN -specific-> cat:[SDTS]LAKE
+cat:[TTMDS]s95211DAN -specific-> cat:[SDTS]LAKE
 
 # ====> relations from SDTS --> RFK (for lakes)?
 # ====> relations from RFK --> SDTS (for lakes)?
