@@ -31,7 +31,10 @@ cat:[SDTS]stream -partialoverlap-> cat:[TTMDS]s95111_3
 
 #==> (1) Originally the rule is --> cat:[SDTS]stream -partialoverlap-> cat:[TTMDS]3141
 #==> Changed the [TTMDS] to [RFK] as there is no 3141 in TTMDS; Please confirm.
+#  >> yes, this was atypo
+
 #==> Please confirm no "Poly" is needed after [RFK]3141
+#  >> yes, it is needed
 cat:[SDTS]stream -partialoverlap-> cat:[RFK]3141
 
 cat:[SDTS]beck -partialoverlap-> cat:[TTMDS]s95111_2
@@ -58,7 +61,8 @@ cat:[SDTS]rivulet -partialoverlap-> cat:[RFK]3142
 cat:[SDTS]rill -partialoverlap-> cat:[TTMDS]s95111_3
 
 #==> (2) Consider changing the rule below to "-nocounterpart->"
-cat:[SDTS]rill -partialoverlap-> cat:[RFK]nil # but there is a cat in RFFC
+#  >> changed
+cat:[SDTS]rill -nocounterpart-> cat:[RFK]nil # but there is a cat in RFFC
 
 cat:[SDTS]rio -partialoverlap-> cat:[TTMDS]s95111_2
 
@@ -69,7 +73,7 @@ cat:[SDTS]river -partialoverlap-> cat:[RFK]3141
 cat:[SDTS]river -partialoverlap-> cat:[RFK]3142
 
 #==> (4) If the change above is confirmed, then the rule immediately below is a duplicate.
-cat:[SDTS]stream -partialoverlap-> cat:[RFK]3141
+#  >> confirmed, removed
 
 cat:[SDTS]stream -partialoverlap-> cat:[RFK]3142
 cat:[SDTS]WATERCOURSE -partialoverlap-> cat:[TTMDS]s95000
@@ -82,6 +86,10 @@ cat:[SDTS]draw -partialoverlap-> cat:[TTMDS]s98222
 #==> (5) Baranka: A deep ravine with precipitous sides. 
 #==> Draw: Take liquid out of a container or well; a gully that is shallower than a ravine
 #==> What are their related categories in RFK?
+#  >> this is rather obvious that they are specific to ravine and gully
+
+cat:[SDTS]baranka -specific-> cat:[RFK]22211
+cat:[SDTS]draw -specific-> cat:[RFK]22212
 
 cat:[SDTS]channel -partialoverlap-> cat:[TTMDS]s95116
 cat:[SDTS]channel -partialoverlap-> cat:[TTMDS]s95111_1
@@ -93,8 +101,11 @@ cat:[SDTS]channel -partialoverlap-> cat:[RFK]31431
 #==> (6) In the paper we said Channel$_{sdts}$ partial overlaps with 15 RFK artificial linear categories
 #==> The number is correct; There are 15 sub-categories under Cat:[RFK]31431
 #==> However, can we be more specific and say something like the followings:
-#==> cat:[SDTS]channel -partialoverlap-> cat:[RFK]314314
-
+#==> cat:[SDTS]channel -partialoverlap-> cat:[RFK]31431
+#  >> categories under 31431 use the following differentia: affordance (navigable/non-navigable/irrigation), 
+#  >> size, above/under- ground, under contruction or not.  There are so many categories because
+#  >> product of differentia is used.  I do not think that we have any of those differentia in the SDTS channel
+#  >> and this is far as we can go at the moment.
 
 
 ###################################
@@ -183,6 +194,7 @@ cat:[TTMDS]95215 -partialoverlap-> cat:[SDTS]wetland
 
 #==> (7) cat:[RFK]7234 -indeticalc-> cat:[SDTS]wetland
 #==> Do you mean the following? (i.e., indeticalc to identical)
+#  >> identical, fixed
 cat:[RFK]7234 -identical-> cat:[SDTS]wetland
 
 cat:[RFK]79758 -specific-> cat:[SDTS]wetland
@@ -200,12 +212,14 @@ cat:[SDTS]reservoir -partialoverlap-> cat:[TTMDS]95217
 
 #==> (8) cat:[SDTS]reservoir -partialoverlap-> cat:[TTMDS]31131
 #==> Please verify the change of TTMDS to RFK
+#  >> confirmed, another typo
 cat:[SDTS]reservoir -partialoverlap-> cat:[RFK]31131
 
 #==> (8-1) Continuing on the above point, in the paper we wrote
 #==> the same applies to Reservoir of RFK (31131000) and Shui Ku of TTMDS (95216)
 #==> Is the rule above acutally the following?
 #==> cat:[TTMDS]s95216 -partialoverlap-> cat:[RFK]31131
+#  >> seems correct to me
 
 cat:[SDTS]pond -partialoverlap-> cat:[RFK]31132
 cat:[RFK]31132 -partialoverlap-> cat:[TTMDS]95212
@@ -239,6 +253,7 @@ cat:[SDTS]mountain -partialoverlap-> cat:[TTMDS]ns98240QIU
 cat:[SDTS]hill -partialoverlap-> cat:[TTMDS]ns98000SHAN
 cat:[SDTS]hill -partialoverlap-> cat:[TTMDS]ns98240QIU
 cat:[SDTS]ball -partialoverlap-> cat:[TTMDS]s98212
+cat:[SDTS]ball -partialoverlap-> cat:[RFK]22522
 
 cat:[SDTS]mountain -nocounterpart-> cat:[RFK]nil
 cat:[SDTS]hill -nocounterpart-> cat:[RFK]nil
@@ -341,8 +356,9 @@ cat:[SDTS]TALUS -identical-> cat:[RFK]2262
 #
 
 #==> (9) Are the linkage rules for the following two entries "-specific->"?
+#  >> I confirm that for RFK category it should be -specific->
 cat:[TTMDS]95222 -partialoverlap-> cat:[SDTS]gully
-cat:[RFK]22212 -partialoverlap-> cat:[SDTS]gully
+cat:[RFK]22212 -specific-> cat:[SDTS]gully
 
 cat:[TTMDS]98211 -partialoverlap-> cat:[SDTS]coulee
 cat:[TTMDS]98211 -partialoverlap-> cat:[SDTS]goe
