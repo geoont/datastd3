@@ -5,10 +5,10 @@
 # (1) -specific-> "the left category is a specifc kind of the right category"
 # (2) -partialoverlap-> "the two categories partial overlap"
 # (3) -nocounterpart-> "the left category finds no counterpart found for the standard on the right"
-# (4) -smaller-> "the left-hand category is smaller than the right-hand category"
+# (4) -smaller-> "the left category is smaller than the right category"
 # (5) -identical-> "the left category is identical to the right category"
 # (6) -identicaldiffclass-> "the left category is identical to the right category but under different branches of the respective hierarchies"
-#
+# (7) -partfor-> "the left category is part for the right category"
 
 
 
@@ -167,7 +167,7 @@ cat:[SDTS]volcano -identical-> cat:[TTMDS]98260
 cat:[SDTS]tableland -partialoverlap-> cat:[TTMDS]98212
 cat:[SDTS]hillock -partialoverlap-> cat:[RFK]2252
 cat:[SDTS]mound -identical-> cat:[RFK]22521
-cat:[SDTS]volcano -partialoverlap-> cat:[RFK]22422
+cat:[SDTS]volcano -partfor-> cat:[RFK]22422
 cat:[SDTS]tableland -nocounterpart-> cat:[RFK]nil
 cat:[SDTS]mountain -partialoverlap-> cat:[TTMDS]ns98000SHAN
 cat:[SDTS]mountain -partialoverlap-> cat:[TTMDS]ns98240QIU
