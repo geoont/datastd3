@@ -28,15 +28,7 @@ cat:[SDTS]river -partialoverlap-> cat:[RFK]3141Poly
 cat:[SDTS]stream -partialoverlap-> cat:[TTMDS]s95111_1
 cat:[SDTS]stream -partialoverlap-> cat:[TTMDS]s95111_2
 cat:[SDTS]stream -partialoverlap-> cat:[TTMDS]s95111_3
-
-#==> (1) Originally the rule is --> cat:[SDTS]stream -partialoverlap-> cat:[TTMDS]3141
-#==> Changed the [TTMDS] to [RFK] as there is no 3141 in TTMDS; Please confirm.
-#  >> yes, this was atypo
-
-#==> Please confirm no "Poly" is needed after [RFK]3141
-#  >> yes, it is needed
 cat:[SDTS]stream -partialoverlap-> cat:[RFK]3141
-
 cat:[SDTS]beck -partialoverlap-> cat:[TTMDS]s95111_2
 cat:[SDTS]beck -partialoverlap-> cat:[TTMDS]s95111_3
 cat:[SDTS]beck -specific-> cat:[RFK]3141
@@ -59,53 +51,25 @@ cat:[SDTS]pup -partialoverlap-> cat:[RFK]3141
 cat:[SDTS]rivulet -partialoverlap-> cat:[TTMDS]s95111_3
 cat:[SDTS]rivulet -partialoverlap-> cat:[RFK]3142
 cat:[SDTS]rill -partialoverlap-> cat:[TTMDS]s95111_3
-
-#==> (2) Consider changing the rule below to "-nocounterpart->"
-#  >> changed
-cat:[SDTS]rill -nocounterpart-> cat:[RFK]nil # but there is a cat in RFFC
-
+cat:[SDTS]rill -nocounterpart-> cat:[RFK]nil
 cat:[SDTS]rio -partialoverlap-> cat:[TTMDS]s95111_2
-
-#==> (3) Is there anything in RFK related to cat:[SDTS]rio? If not, perhaps adding the following here?
-# cat:[SDTS]rio -nocounterpart-> cat:[RFK]nil
-
+cat:[SDTS]rio -nocounterpart-> cat:[RFK]nil
 cat:[SDTS]river -partialoverlap-> cat:[RFK]3141
 cat:[SDTS]river -partialoverlap-> cat:[RFK]3142
-
-#==> (4) If the change above is confirmed, then the rule immediately below is a duplicate.
-#  >> confirmed, removed
-
 cat:[SDTS]stream -partialoverlap-> cat:[RFK]3142
 cat:[SDTS]WATERCOURSE -partialoverlap-> cat:[TTMDS]s95000
 cat:[SDTS]WATERCOURSE -partialoverlap-> cat:[RFK]314
 cat:[SDTS]rill -partialoverlap-> cat:[TTMDS]s95115
-
 cat:[SDTS]baranka -specific-> cat:[TTMDS]s98221
 cat:[SDTS]draw -partialoverlap-> cat:[TTMDS]s98222
-
-#==> (5) Baranka: A deep ravine with precipitous sides. 
-#==> Draw: Take liquid out of a container or well; a gully that is shallower than a ravine
-#==> What are their related categories in RFK?
-#  >> this is rather obvious that they are specific to ravine and gully
-
 cat:[SDTS]baranka -specific-> cat:[RFK]22211
 cat:[SDTS]draw -specific-> cat:[RFK]22212
-
 cat:[SDTS]channel -partialoverlap-> cat:[TTMDS]s95116
 cat:[SDTS]channel -partialoverlap-> cat:[TTMDS]s95111_1
 cat:[SDTS]channel -partialoverlap-> cat:[TTMDS]s95111_2
 cat:[SDTS]channel -partialoverlap-> cat:[TTMDS]s95111_3
 cat:[SDTS]channel -partialoverlap-> cat:[TTMDS]ns95111CHUAN
 cat:[SDTS]channel -partialoverlap-> cat:[RFK]31431
-
-#==> (6) In the paper we said Channel$_{sdts}$ partial overlaps with 15 RFK artificial linear categories
-#==> The number is correct; There are 15 sub-categories under Cat:[RFK]31431
-#==> However, can we be more specific and say something like the followings:
-#==> cat:[SDTS]channel -partialoverlap-> cat:[RFK]31431
-#  >> categories under 31431 use the following differentia: affordance (navigable/non-navigable/irrigation), 
-#  >> size, above/under- ground, under contruction or not.  There are so many categories because
-#  >> product of differentia is used.  I do not think that we have any of those differentia in the SDTS channel
-#  >> and this is far as we can go at the moment.
 
 
 ###################################
@@ -116,44 +80,31 @@ cat:[SDTS]inlandsea -specific-> cat:[TTMDS]s95211
 cat:[SDTS]pasteuerlake -specific-> cat:[TTMDS]s95211
 cat:[SDTS]paternosterlake -specific-> cat:[TTMDS]s95211
 cat:[SDTS]proglaciallake -specific-> cat:[TTMDS]s95211
-
 cat:[SDTS]mortlake -specific-> cat:[RFK]3112
 cat:[SDTS]inlandsea -specific-> cat:[RFK]3112
 cat:[SDTS]pasteuerlake -specific-> cat:[RFK]3112
 cat:[SDTS]paternosterlake -specific-> cat:[RFK]3112
 cat:[SDTS]proglaciallake -specific-> cat:[RFK]3112
-
-
 cat:[SDTS]closedsea -specific-> cat:[TTMDS]ns95000HAI
 cat:[SDTS]marginalsea -specific-> cat:[TTMDS]ns95000HAI
 cat:[SDTS]ocean -specific-> cat:[TTMDS]ns95000HAI
 cat:[SDTS]opensea -specific-> cat:[TTMDS]ns95000HAI
-
-
 cat:[SDTS]closedsea -specific-> cat:[RFK]3111
 cat:[SDTS]marginalsea -specific-> cat:[RFK]3111
 cat:[SDTS]ocean -specific-> cat:[RFK]3111
 cat:[SDTS]opensea -specific-> cat:[RFK]3111
-
-
 cat:[SDTS]openwater -specific-> cat:[TTMDS]ns95000HAI
 cat:[SDTS]openwater -nocounterpart-> cat:[RFK]nil
-
-
 cat:[SDTS]oxbow -identical-> cat:[TTMDS]ns95211NIU
 cat:[SDTS]saltlake -identical-> cat:[TTMDS]s95211SALT
 cat:[SDTS]bayou -partialoverlap-> cat:[TTMDS]s95211
 cat:[SDTS]bayou -partialoverlap-> cat:[TTMDS]s95111_2
 cat:[SDTS]bayou -partialoverlap-> cat:[TTMDS]s95111_3
 cat:[SDTS]catchbasin -partialoverlap-> cat:[TTMDS]s95211
-
-
 cat:[SDTS]oxbow -specific-> cat:[RFK]3112
 cat:[SDTS]saltlake -specific-> cat:[RFK]3112
 cat:[SDTS]bayou -specific-> cat:[RFK]3141
 cat:[SDTS]catchbasin -specific-> cat:[RFK]31134
-
-
 cat:[TTMDS]s95211GOU -specific-> cat:[SDTS]LAKE
 cat:[TTMDS]s95211HUO -specific-> cat:[SDTS]LAKE
 cat:[TTMDS]s95211BING -specific-> cat:[SDTS]LAKE
@@ -162,8 +113,6 @@ cat:[TTMDS]s95211YANG -specific-> cat:[SDTS]LAKE
 cat:[TTMDS]s95211XIE -identical-> cat:[SDTS]LAGOON
 cat:[TTMDS]s95211REN -specific-> cat:[SDTS]LAKE
 cat:[TTMDS]s95211DAN -specific-> cat:[SDTS]LAKE
-
-
 cat:[TTMDS]s95211GOU -specific-> cat:[RFK]3112
 cat:[TTMDS]s95211HUO -specific-> cat:[RFK]3112
 cat:[TTMDS]s95211BING -specific-> cat:[RFK]3112
@@ -171,8 +120,6 @@ cat:[TTMDS]s95211YAN -specific-> cat:[RFK]3112
 cat:[TTMDS]s95211YANG -specific-> cat:[RFK]3112
 cat:[TTMDS]s95211REN -specific-> cat:[RFK]3112
 cat:[TTMDS]s95211DAN -specific-> cat:[RFK]3112
-
-
 cat:[RFK]3112 -partialoverlap-> cat:[SDTS]LAKE
 cat:[RFK]3112 -partialoverlap-> cat:[TTMDS]s95211
 cat:[RFK]31131 -partialoverlap-> cat:[TTMDS]s95216
@@ -181,46 +128,24 @@ cat:[RFK]31133 -partialoverlap-> cat:[TTMDS]s95212
 cat:[RFK]31131 -partialoverlap-> cat:[SDTS]reservoir
 cat:[RFK]31132 -partialoverlap-> cat:[SDTS]pond
 cat:[RFK]31133 -partialoverlap-> cat:[SDTS]pool
-
-
 cat:[SDTS]backwater -nocounterpart-> cat:[TTMDS]nil
 cat:[SDTS]turningbasin -nocounterpart-> cat:[TTMDS]nil
 cat:[SDTS]backwater -nocounterpart-> cat:[RFK]nil
 cat:[SDTS]turningbasin -nocounterpart-> cat:[RFK]nil
-
-
 cat:[TTMDS]95214 -identical-> cat:[SDTS]bog
 cat:[TTMDS]95215 -partialoverlap-> cat:[SDTS]wetland
-
-#==> (7) cat:[RFK]7234 -indeticalc-> cat:[SDTS]wetland
-#==> Do you mean the following? (i.e., indeticalc to identical)
-#  >> identical, fixed
 cat:[RFK]7234 -identical-> cat:[SDTS]wetland
-
 cat:[RFK]79758 -specific-> cat:[SDTS]wetland
 cat:[RFK]79758 -specific-> cat:[SDTS]swamp
 cat:[RFK]7231 -partialoverlap-> cat:[SDTS]wetland
 cat:[RFK]7231 -partialoverlap-> cat:[SDTS]wetland
-
-
 cat:[SDTS]pond -partialoverlap-> cat:[TTMDS]95212
 cat:[SDTS]pond -partialoverlap-> cat:[RFK]31132
 cat:[SDTS]pool -partialoverlap-> cat:[TTMDS]95212
 cat:[SDTS]pool -partialoverlap-> cat:[RFK]31133
 cat:[SDTS]reservoir -partialoverlap-> cat:[TTMDS]95216
 cat:[SDTS]reservoir -partialoverlap-> cat:[TTMDS]95217
-
-#==> (8) cat:[SDTS]reservoir -partialoverlap-> cat:[TTMDS]31131
-#==> Please verify the change of TTMDS to RFK
-#  >> confirmed, another typo
-cat:[SDTS]reservoir -partialoverlap-> cat:[RFK]31131
-
-#==> (8-1) Continuing on the above point, in the paper we wrote
-#==> the same applies to Reservoir of RFK (31131000) and Shui Ku of TTMDS (95216)
-#==> Is the rule above acutally the following?
-#==> cat:[TTMDS]s95216 -partialoverlap-> cat:[RFK]31131
-#  >> seems correct to me
-
+cat:[TTMDS]s95216 -partialoverlap-> cat:[RFK]31131
 cat:[SDTS]pond -partialoverlap-> cat:[RFK]31132
 cat:[RFK]31132 -partialoverlap-> cat:[TTMDS]95212
 cat:[SDTS]swimming_pool -specific-> cat:[RFK]31133
@@ -240,32 +165,24 @@ cat:[SDTS]knob -partialoverlap-> cat:[TTMDS]98212
 cat:[SDTS]knoll -partialoverlap-> cat:[TTMDS]98212
 cat:[SDTS]volcano -identical-> cat:[TTMDS]98260
 cat:[SDTS]tableland -partialoverlap-> cat:[TTMDS]98212
-
-
 cat:[SDTS]hillock -partialoverlap-> cat:[RFK]2252
 cat:[SDTS]mound -identical-> cat:[RFK]22521
 cat:[SDTS]volcano -partialoverlap-> cat:[RFK]22422
 cat:[SDTS]tableland -nocounterpart-> cat:[RFK]nil
-
-
 cat:[SDTS]mountain -partialoverlap-> cat:[TTMDS]ns98000SHAN
 cat:[SDTS]mountain -partialoverlap-> cat:[TTMDS]ns98240QIU
 cat:[SDTS]hill -partialoverlap-> cat:[TTMDS]ns98000SHAN
 cat:[SDTS]hill -partialoverlap-> cat:[TTMDS]ns98240QIU
 cat:[SDTS]ball -partialoverlap-> cat:[TTMDS]s98212
 cat:[SDTS]ball -partialoverlap-> cat:[RFK]22522
-
 cat:[SDTS]mountain -nocounterpart-> cat:[RFK]nil
 cat:[SDTS]hill -nocounterpart-> cat:[RFK]nil
-
 cat:[RFK]31332 -specific-> cat:[SDTS]rock
 cat:[RFK]31333 -specific-> cat:[SDTS]rock
 cat:[TTMDS]95901 -specific-> cat:[SDTS]rock
 cat:[TTMDS]95902 -specific-> cat:[SDTS]rock
 cat:[TTMDS]95901 -partialoverlap-> cat:[SDTS]reef
 cat:[TTMDS]95902 -partialoverlap-> cat:[SDTS]reef
-
-
 cat:[SDTS]sand_horn -specific-> cat:[TTMDS]95142
 cat:[SDTS]transverse_bar -specific-> cat:[TTMDS]95142
 cat:[SDTS]tongue -specific-> cat:[TTMDS]95142
@@ -290,8 +207,6 @@ cat:[SDTS]spit -specific-> cat:[TTMDS]95142
 cat:[SDTS]tombolo -specific-> cat:[TTMDS]95142
 cat:[SDTS]shoal -partialoverlap-> cat:[TTMDS]95142
 cat:[SDTS]point -partialoverlap-> cat:[TTMDS]95142
-
-
 cat:[SDTS]sand_horn -specific-> cat:[RFK]31211
 cat:[SDTS]transverse_bar -specific-> cat:[RFK]31211
 cat:[SDTS]tongue -specific-> cat:[RFK]31211
@@ -355,11 +270,8 @@ cat:[SDTS]TALUS -identical-> cat:[RFK]2262
 # Section 6.3.3 Depression
 #
 
-#==> (9) Are the linkage rules for the following two entries "-specific->"?
-#  >> I confirm that for RFK category it should be -specific->
 cat:[TTMDS]95222 -partialoverlap-> cat:[SDTS]gully
 cat:[RFK]22212 -specific-> cat:[SDTS]gully
-
 cat:[TTMDS]98211 -partialoverlap-> cat:[SDTS]coulee
 cat:[TTMDS]98211 -partialoverlap-> cat:[SDTS]goe
 cat:[TTMDS]98211 -partialoverlap-> cat:[SDTS]gulch
