@@ -5,10 +5,8 @@
 # (1) -specific-> "the left category is a specifc kind of the right category"
 # (2) -partialoverlap-> "the two categories partial overlap"
 # (3) -nocounterpart-> "the left category finds no counterpart found for the standard on the right"
-# (4) -smaller-> "the left category is smaller than the right category"
-# (5) -identical-> "the left category is identical to the right category"
-# (6) -identicaldiffclass-> "the left category is identical to the right category but under different branches of the respective hierarchies"
-# (7) -partfor-> "the left category is part for the right category"
+# (4) -identical-> "the left category is identical to the right category"
+# (5) -partfor-> "the left category is part for the right category"
 
 
 
