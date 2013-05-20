@@ -69,7 +69,7 @@ cat:[SDTS]channel -partialoverlap-> cat:[TTMDS]s95111_1
 cat:[SDTS]channel -partialoverlap-> cat:[TTMDS]s95111_2
 cat:[SDTS]channel -partialoverlap-> cat:[TTMDS]s95111_3
 cat:[SDTS]channel -partialoverlap-> cat:[TTMDS]ns95111CHUAN
-cat:[SDTS]channel -partialoverlap-> cat:[RFK]31431
+cat:[RFK]31431 -specific-> cat:[SDTS]channel
 
 
 ###################################
