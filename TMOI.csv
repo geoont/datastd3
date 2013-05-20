@@ -41,7 +41,7 @@ s95411c,95411c,,gravel shore,礫濱,L\`{i} B\={i}n,Li Bin
 s95411d,95411d,,rock shore,岩濱,Y\'{a}n B\={i}n,Y'an Bin
 s95420,95420,,submarine geology,水底地質,Sh\u{u}i D\u{i} D\`{i} Zh\'{i},Shuui Dui Di Zh'i
 s95424,95424,,rock,岩床,Y\'{a}n Chu\'{a}ng,Y'an Chu'ang
-s95900,95900,,(other),(其它),(Q\'{i} T\={a}),Q'i Ta
+s95900,95900,,(other),(其它),(Q\'{i} T\={a}),(Q'i Ta)
 s95901,95901,,bare rock,顯礁,Xi\u{a}n Ji\={a}o,Xiuan Jiao
 s95902,95902,,reef,暗礁,\`{A}n Ji\={a}o,An Jiao
 s95905,95905,,island,島嶼,D\u{a}o Y\u{u},Duao Yuu
@@ -67,3 +67,23 @@ s98250,98250,,cave,洞穴,D\`{o}ng Syu\`{e},Dong Syue
 s98260,98260,,volcano,火山,Hu\u{o} Shan,Huuo Shan
 s98900,98900,,(other),(其他),(Q\'{i} T\={a}),(Q'i Ta)
 s98910,98910,,mud volcano,泥火山,N\'{i} Hu\u{o} Shan,N'i Huuo Shan
+nil,,,(nocounterpart),,,
+s95111_1,95111#1,,river,江,Ji\`{a}n,Jian
+s95111_2,95111#2,,river,河,H\'{e},H'e
+s95111_3,95111#3,,stream,溪,C\'{i},C'i
+ns95111CHUAN,95111NSC,,river,川,chuan,chuan
+ns95111JIAN,95111NSC,,ravine,澗,ji\`{a}n,jian
+ns95000HAI,95000NSC,,sea,海,h\u{a}i,huai
+ns95211NIU,95211NSC,,oxbow lake,牛軛湖,ni\'{u} \`{e} h\'{u},ni'u e h'u
+ns95211GOU,95211NSC,,tectonic lake,構造湖,g\`{o}u z\`{a}o h\'{u},gou zao h'u
+ns95211HUO,95211NSC,,crater lake,火口湖,hu\u{o}k\u{o}u h\'{u},huuo kuo k'u
+ns95211BING,95211NSC,,cirque,冰川湖,b\={i}ng chu\={a}n,bing chuan
+ns95211YAN,95211NSC,,barrier lake,堰塞湖,y\`{a}n s\`{e} h\'{u},yan se h'u
+ns95211YANG,95211NSC,,Karst lake,岩溶湖,y\'{a}ng r\'{o}ng h\'{u},y'ang r'ong h'u
+ns95211XIE,95211NSC,,lagoon,瀉湖,xi\`{e} h\'{u},xie h'u
+ns95211FENG,95211NSC,,deflation lake,風蝕湖,f\={e}ng sh\'{i} h\'{u},feng sh'I h'u
+ns95211REN,95211NSC,,artificial lake,人工湖,r\'{e}n g\={o}ng h\'{u},r'en gong h'u
+ns95211DAN,95211NSC,,fresh water lake,淡水湖,d\`{a}n shu\u{i} h\'{u},dan shuui h'u
+ns95211XIAN,95211NSC,,salt lake,鹹水湖,xi\'{a}n shu\u{i} h\'{u},xi'an shuui h'u
+ns98240QIU,98240NSC,,hill,丘陵,qi\={u} l\'{i}ng,qiu l'ing
+ns98000SHAN,98000NSC,,shan,山,shan,shan

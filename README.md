@@ -43,6 +43,11 @@ http://mcmcweb.er.usgs.gov/sdts/SDTS_standard_nov97/p2anxc.html
 
 Synopsis: The US SDTS of the US Geological Survey was designed to provide a means to transfer earth-reference spatial data between dissimilar computer systems. It is scale-independent and contains 200 mutually exclusive standard categories, which describe real-world features instead of those in the database schema or cartographic representations. The standard provides a definition expressed in natural language for each standard category.
 
+Links between Categories
+------------------------
+
+In addition to individual data files that describe the category names and data standard structures of TTMDS, RFK, and the US SDTS, the repository provides crossDS.soft that records the linkage rules between related categories from different datasets, where each dataset is an ontology that describes one of the three data standards above. 
+
 License
 =======
 This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/.

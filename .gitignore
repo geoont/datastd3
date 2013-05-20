@@ -31,3 +31,5 @@
 *.xdy
 *.tdo
 temp/
+.DS_Store
+
